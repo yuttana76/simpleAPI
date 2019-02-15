@@ -1,0 +1,528 @@
+20180101|MPAM|527
+70/30-D LTF|UOBAM|กองทุนเปิด 70/30 ปันผล หุ้นระยะยาว|70/30 - Dividend Long Term Equity Fund|E|LTF|N|Y|20070626|6|N|N|1530|2000.00|0.01|1500|0.01|0.0001|0.00|0.0000|4||Y|Y|70/30-D LTF
+ABAG|ABERDEEN|กองทุนเปิด อเบอร์ดีน อเมริกัน โกรท ฟันด์|Aberdeen American Growth Fund|E||N|N|20100811|6|Y|N|1630|10000.00|10000.00|1630|1000.00|100.0000||100.0000|5||Y|Y|ABAG
+ABAGS|ABERDEEN|กองทุนเปิด อเบอร์ดีน อเมริกัน โกรท - สมอลเลอร์ คอมพานี ฟันด์|Aberdeen American Growth - Smaller Companies Fund|E||N|N|20151103|6|Y|N|1630|10000.00|10000.00|1630|1000.00|100.0000||100.0000|5||Y|Y|ABAGS
+ABAPAC|ABERDEEN|กองทุนเปิด อเบอร์ดีน เอเชีย แปซิฟิค เอคควิตี้ ฟันด์|Aberdeen Asia Pacific Equity Fund|E||N|N|20050825|6|Y|N|1630|10000.00|10000.00|1630|1000.00|100.0000||100.0000|5||Y|Y|ABAPAC
+ABAPAC-RMF|ABERDEEN|กองทุนเปิด อเบอร์ดีน เอเชีย แปซิฟิค เอคควิตี้ เพื่อการเลี้ยงชีพ|Aberdeen Asia Pacific Equity Retirement Mutual Fund|E|RMF|N|N|20111213|6|Y|N|1630|10000.00|10000.00|1630|||||5||Y|Y|ABAPAC-RMF
+ABCC|ABERDEEN|กองทุนเปิด อเบอร์ดีน แคช ครีเอชั่น|Aberdeen Cash Creation Fund|F||N|N|19980409|2|N|N|1630|10000.00|10000.00|1630|||||1||Y|Y|ABCC
+ABCG|ABERDEEN|กองทุนเปิด อเบอร์ดีน ไชน่า เกทเวย์ ฟันด์|Aberdeen China Gateway Fund|E||N|N|20090909|6|Y|N|1630|10000.00|10000.00|1630|1000.00|100.0000||100.0000|5||Y|Y|ABCG
+ABEG|ABERDEEN|กองทุนเปิด อเบอร์ดีน ยูโรเปี้ยน โกรท ฟันด์|Aberdeen European Growth Fund|E||N|N|20061206|6|Y|N|1630|10000.00|10000.00|1630|1000.00|100.0000||100.0000|5||Y|Y|ABEG
+ABEHB|ABERDEEN|กองทุนเปิด อเบอร์ดีน ยูโร ไฮ ยิลด์ บอนด์ ฟันด์|Aberdeen Euro High Yield Bond Fund|F||N|N|20141022|5|Y|N|1630|510000.00|10000.00|1630|1000.00|100.0000||100.0000|5||Y|Y|ABEHB
+ABFC|ABERDEEN|กองทุนเปิด อเบอร์ดีนเฟล็กซิเบิ้ลแคปปิตอล|Aberdeen Flexible Capital Fund|M||N|Y|20030508|5|N|N|1630|10000.00|10000.00|1630|||||3||Y|Y|ABFC
+ABG|ABERDEEN|กองทุนเปิด อเบอร์ดีนโกรท|Aberdeen Growth Fund|E||N|N|19970718|6|N|N|1630|10000.00|10000.00|1630|||||3||Y|Y|ABG
+ABGEM|ABERDEEN|กองทุนเปิด อเบอร์ดีน โกลบอล อีเมอร์จิ้ง โกรท ฟันด์|Aberdeen Global Emerging Growth Fund|E||N|N|20080402|6|Y|N|1630|10000.00|10000.00|1630|1000.00|||100.0000|5||Y|Y|ABGEM
+ABIG|ABERDEEN|กองทุนเปิด อเบอร์ดีน อินเดีย โกรท ฟันด์|Aberdeen India Growth Fund|E||N|N|20110316|6|Y|N|1630|10000.00|10000.00|1630|1000.00|100.0000||100.0000|5||Y|Y|ABIG
+ABINC|ABERDEEN|กองทุนเปิด อเบอร์ดีน อินคัม ครีเอชั่น|Aberdeen Income Creation|F||N|N|20120627|4|N|N|1630|10000.00|10000.00|1630|||||2||Y|Y|ABINC
+ABJO|ABERDEEN|กองทุนเปิด อเบอร์ดีน เจแปน ออพพอร์ทูนิตี้ส์ ฟันด์|Aberdeen Japan Opportunities Fund|E||N|N|20130828|6|Y|N|1630|10000.00|10000.00|1630|1000.00|100.0000||100.0000|5||Y|Y|ABJO
+ABLTF|ABERDEEN|กองทุนเปิด อเบอร์ดีนหุ้นระยะยาว|Aberdeen Long Term Equity Fund|E|LTF|N|N|20041028|6|N|N|1630|10000.00|10000.00|1630|1000.00||||3||Y|Y|ABLTF
+ABLTF 70/30|ABERDEEN|กองทุนเปิด อเบอร์ดีน หุ้นระยะยาว 70/30|Aberdeen Long Term Equity Fund 70/30|E|LTF|N|N|20161124|6|N|N|1630|10000.00|10000.00|1630|1000.00||||3||Y|Y|ABLTF 70/30
+ABSC-RMF|ABERDEEN|กองทุนเปิด อเบอร์ดีนสมาร์ทแคปปิตอลเพื่อการเลี้ยงชีพ|Aberdeen Smarty Capital Retirement Mutual Fund|E|RMF|N|N|20021112|6|N|N|1630|10000.00|10000.00|1630|||||3||Y|Y|ABSC-RMF
+ABSI-RMF|ABERDEEN|กองทุนเปิด อเบอร์ดีนสมาร์ทอินคัมเพื่อการเลี้ยงชีพ|Aberdeen Smart Income Retirement Mutual Fund|F|RMF|N|N|20021112|4|N|N|1630|10000.00|10000.00|1630|||||2||Y|Y|ABSI-RMF
+ABSL|ABERDEEN|กองทุนเปิด อเบอร์ดีนสยามลีดเดอร์ส|Aberdeen Siam Leaders Fund|E||N|N|20040302|6|N|N|1630|10000.00|10000.00|1630|1000.00|100.0000||100.0000|3||Y|Y|ABSL
+ABSM|ABERDEEN|กองทุนเปิด อเบอร์ดีนสมอลแค็พ|Aberdeen Small Cap Fund|E||N|N|20050602|6|N|N|1630|10000.00|10000.00|1630|1000.00|100.0000||100.0000|3||Y|Y|ABSM
+ABTED|ABERDEEN|กองทุนเปิด อเบอร์ดีนไทย เอคควิตี้ ดีวิเด็น|Aberdeen Thai Equity Dividend Fund|E||N|Y|20030704|6|N|N|1630|10000.00|10000.00|1630|1000.00|100.0000||100.0000|3||Y|Y|ABTED
+ABV|ABERDEEN|กองทุนเปิด อเบอร์ดีนแวลู|Aberdeen Value Fund|M||N|N|20031113|5|N|N|1630|10000.00|10000.00|1630|||||3||Y|Y|ABV
+ABWOOF|ABERDEEN|กองทุนเปิด อเบอร์ดีน เวิลด์ ออพพอร์ทูนิตี้ส์ ฟันด์|Aberdeen World Opportunities Fund|E||N|N|20060329|6|Y|N|1630|10000.00|10000.00|1630|1000.00|100.0000||100.0000|5||Y|Y|ABWOOF
+ADR-D|UOBAM|กองทุนเปิด เอเชียน เดบท์ รีจินอล บอนด์ ปันผล|Asian Debt Regional Bond - Dividend Fund|F||N|Y|20120209|4|Y|N|1430|2000.00|0.01|1330|0.01|0.0001|0.00|0.0000|5||Y|Y|ADR-D
+AEOB|ABERDEEN|กองทุนเปิด อเบอร์ดีน อีเมอร์จิ้ง ออพพอร์ทูนิตี้ส์ บอนด์ ฟันด์|Aberdeen Emerging Opportunities Bond Fund|F||N|N|20070719|5|Y|N|1630|10000.00|10000.00|1630|1000.00|100.0000||100.0000|5||Y|Y|AEOB
+ASIA-B|UOBAM|กองทุนเปิด ตราสารหนี้เอเชียน|Asian USD Bond Fund|F||N|N|20020516|4|Y|N|1530|2000.00|0.01|1200|0.01|0.0001|0.00|0.0000|6||Y|Y|ASIA-B
+ASIA-E|UOBAM|กองทุนเปิด ออล เอเชีย อิควิตี้|All Asia Equity Fund|E||N|N|20060615|6|Y|N|1530|2000.00|0.01|1500|0.01|0.0001|0.00|0.0000|5||Y|Y|ASIA-E
+ASP|ASSETFUND|กองทุนเปิด แอสเซท พลัส ตราสารหนี้|ASSET PLUS FIXED INCOME FUND|F||N|N|19990722|4|Y|N|1530|||1530|||||1||Y|Y|ASP
+ASP-ERF|ASSETFUND|กองทุนเปิดแอสเซทพลัสตราสารทุนเพื่อการเลี้ยงชีพ|Asset Plus Equity RMF|E|RMF|N|N|20041223|4|Y|N|1530|||1530|||||1||Y|Y|ASP-ERF
+ASP-EUROPE VALUE|ASSETFUND|กองทุนเปิดแอสเซทพลัสยุโรปแวลู|Asset Plus Europe Value Fund|E||N|N|20150211|4|Y|N|1530|||1530|||||1||Y|Y|ASP-EUROPE VALUE
+ASP-GDF|ASSETFUND|กองทุนเปิดแอสเซทพลัสกำไรปันผล|Asset Plus Growth Dividend Fund|E||N|Y|20041221|4|Y|N|1530|||1530|||||1||Y|Y|ASP-GDF
+ASP-LTF|ASSETFUND|กองทุนเปิดแอสเซทพลัสหุ้นระยะยาว|Asset Plus Long-Term Equity Fund|E|LTF|N|Y|20041123|4|Y|N|1530|||1530|||||1||Y|Y|ASP-LTF
+B-ASEAN|BBLAM|กองทุนเปิดบัวหลวงหุ้นอาเซียน|Bualuang ASEAN Equity Fund|E||N|N|20160331|4|N|N|1530|||1530|||||1||Y|Y|B-ASEAN
+B-ASIA|BBLAM|กองทุนเปิดบัวหลวงหุ้นเอเชีย|Bualuang Asia Equity Fund|E||N|N|20150402|6|Y|Y|1530|500.00|500.00|1530|0.00|0.0000|0.00|0.0000|4||Y|Y|B-ASIA
+B-FIXTERM4/17|BBLAM|กองทุนรวมบัวหลวงตราสารหนี้ชนิดระบุวันครบกำหนด 4/17|Bualuang Fixed Income - Term Fund 4/17|F||N|N|20170622|4|Y|Y|1530|10000.00|10000.00|1530|0.00|0.0000|0.00|0.0000|1||Y|Y|BFTERM4/17
+B-GLOBALRMF|BBLAM|กองทุนเปิดบัวหลวงหุ้นโกลบอลเพื่อการเลี้ยงชีพ|Bualuang Global Equity RMF|E|RMF|N|N|20151112|6|Y|Y|1530|500.00|500.00|1530|0.00|0.0000|0.00|0.0000|4||Y|Y|B-GLOBALRMF
+B-HY (H75) AI|BBLAM|กองทุนเปิดบัวหลวงไฮยิลด์ (เฮดจ์ 75)|Bualuang High Yield Fund (Hedged 75)|M||N|N|20160825|6|Y|Y|1530|510000.00|10000.00|1530|0.00|0.0000|0.00|0.0000|4||Y|Y|B-HY (H75)
+B-HY (UH) AI|BBLAM|กองทุนเปิดบัวหลวงไฮยิลด์ (อันเฮดจ์)|Bualuang High Yield Fund (Unhedged)|M||N|N|20160825|6|Y|Y|1530|510000.00|10000.00|1530|0.00|0.0000|0.00|0.0000|4||Y|Y|B-HY (UH)
+B-LTF|BBLAM|กองทุนเปิดบัวหลวงหุ้นระยะยาว|Bualuang Long - Term Equity Fund|E|LTF|N|N|20041111|6|N|Y|1530|500.00|500.00|1530|0.00|0.0000|0.00|0.0000|1||Y|Y|B-LTF
+B-NIPPON|BBLAM|กองทุนเปิดบัวหลวงหุ้นญี่ปุ่น|Bualuang Nippon Equity Fund|E||N|N|20141127|6|Y|Y|1530|500.00|500.00|1530|0.00|0.0000|0.00|0.0000|4||Y|Y|B-NIPPON
+B-SENIOR|BBLAM|กองทุนผสมบีซีเนียร์สำหรับวัยเกษียณ|B Senior Citizen Mixed Fund|M||N|N|20130816|5|N|Y|1530|500.00|500.00|1530|0.00|0.0000|0.00|0.0000|3||Y|Y|B-SENIOR
+B-TNTV|BBLAM|กองทุนเปิดบัวหลวงธนทวี|ฺBualuang Thanatavee Fixed Income Fund|F||N|N|20050308|4|N|Y|1530|500.00|500.00|1530|0.00|0.0000|0.00|0.0000|1||Y|Y|B-TNTV
+B-TREASURY|BBLAM|กองทุนเปิดบัวหลวงตราสารหนี้ภาครัฐ|Bualuang Treasury Fund|F||N|N|20120810|1|N|Y|1530|500.00|500.00|1530|0.00|0.0000|0.00|0.0000|1||Y|Y|B-TREASURY
+BBASIC|BBLAM|กองทุนเปิดบัวหลวงปัจจัย 4|Bualuang Basic Open-end Fund|E||N|Y|19950317|4|N|N|1530|||1530|||||1||Y|Y|BBASIC
+BBASICDLTF|BBLAM|กองทุนเปิดบัวหลวงปัจจัย 4 หุ้นระยะยาวปันผล|Bualuang Basic Dividend LTF|E|LTF|N|Y|20161028|6|N|Y|1530|500.00|500.00|1530|0.00|0.0000|0.00|0.0000|1||Y|Y|BBASICDLTF
+BCARE|BBLAM|กองทุนเปิดบัวหลวงโกลบอลเฮลธ์แคร์|Bualuang Global Health Care Fund|E||N|N|20070829|7|Y|Y|1530|500.00|500.00|1530|0.00|0.0000|0.00|0.0000|4||Y|Y|BCARE
+BCARERMF|BBLAM|กองทุนเปิดบัวหลวงโกลบอลเฮลธ์แคร์เพื่อการเลี้ยงชีพ|Bualuang Global Health Care RMF|E|RMF|N|N|20150519|7|Y|Y|1530|500.00|500.00|1530|0.00|0.0000|0.00|0.0000|4||Y|Y|BCARERMF
+BERMF|BBLAM|กองทุนเปิดบัวหลวงตราสารทุนเพื่อการเลี้ยงชีพ|Bualuang Equity RMF|E|RMF|N|N|20021127|6|N|Y|1530|500.00|500.00|1530|0.00|0.0000|0.00|0.0000|1||Y|Y|BERMF
+BFIXED|BBLAM|กองทุนเปิดบัวหลวงตราสารหนี้|Bualuang Fixed Income Fund|F||N|N|20110217|4|N|Y|1530|500.00|500.00|1530|0.00|0.0000|0.00|0.0000|1||Y|Y|BFIXED
+BFLRMF|BBLAM|กองทุนเปิดบัวหลวงเฟล็กซิเบิ้ลเพื่อการเลี้ยงชีพ|Bualuang Flexible RMF|M|RMF|N|N|20021127|5|N|Y|1530|500.00|500.00|1530|0.00|0.0000|0.00|0.0000|1||Y|Y|BFLRMF
+BFRMF|BBLAM|กองทุนเปิดบัวหลวงตราสารหนี้เพื่อการเลี้ยงชีพ|Bualuang Fixed-income RMF|F|RMF|N|N|20021127|4|N|Y|1530|500.00|500.00|1530|0.00|0.0000|0.00|0.0000|1||Y|Y|BFRMF
+BGOLD|BBLAM|กองทุนเปิดบัวหลวงโกลด์ฟันด์|Bualuang Gold  Fund|O||N|N|20100519|8|Y|Y|1530|500.00|500.00|1530|0.00|0.0000|0.00|0.0000|3||Y|Y|BGOLD
+BGOLDRMF|BBLAM|กองทุนเปิดบัวหลวงโกลด์เพื่อการเลี้ยงชีพ|Bualuang Gold RMF|O|RMF|N|N|20100519|8|Y|Y|1530|500.00|500.00|1530|0.00|0.0000|0.00|0.0000|3||Y|Y|BGOLDRMF
+BIG CAP-D LTF|UOBAM|กองทุนเปิด Big Cap ปันผล หุ้นระยะยาว|Big Cap Dividend Long Term Equity Fund|E|LTF|N|Y|20051219|6|N|N|1530|2000.00|0.01|1500|0.01|0.0001|0.00|0.0000|4||Y|Y|BIG CAP-D LTF
+BKA|BBLAM|กองทุนเปิดบัวแก้ว|Buakaew Open-end Fund|E||N|N|19931103|6|N|Y|1530|500.00|500.00|1530|0.00|0.0000|0.00|0.0000|1||Y|Y|BKA
+BKD|BBLAM|กองทุนเปิดบัวแก้วปันผล|Buakaew Income Fund|E||N|Y|19940715|6|N|Y|1530|500.00|500.00|1530|0.00|0.0000|0.00|0.0000|1||Y|Y|BKD
+BKIND|BBLAM|กองทุนรวมคนไทยใจดี|BKIND FUND|E||N|N|20141030|6|N|Y|1530|500.00|500.00|1530|0.00|0.0000|0.00|0.0000|1||Y|Y|BKIND
+BLTF75|BBLAM|กองทุนเปิดบัวหลวงหุ้นระยะยาว 75/25|Bualuang Long - Term Equity Fund 75/25|E|LTF|N|N|20070518|6|N|Y|1530|500.00|500.00|1530|0.00|0.0000|0.00|0.0000|1||Y|Y|BLTF75
+BP21/17|BBLAM|กองทุนรวมบัวหลวงธนสารพลัส 21/17|Bualuang Thanasarn Plus 21/17|F||N|N|20160616|4|N|Y|1530|500.00|500.00|1530|0.00|0.0000|0.00|0.0000|1||Y|Y|
+BRIC|UOBAM|กองทุนเปิด บริค|BRIC Fund|E||N|N|20071206|6|Y|N|1530|2000.00|0.01|1500|0.01|0.0001|0.00|0.0000|5||Y|Y|BRIC
+BTK|BBLAM|กองทุนเปิดบัวหลวงธนคม|ฺBualuang Thanakom Open-end Fund|E||N|N|19940815|6|N|Y|1530|500.00|500.00|1530|0.00|0.0000|0.00|0.0000|1||Y|Y|BTK
+BTP|BBLAM|กองทุนเปิดบัวหลวงทศพล|Bualuang Top-Ten Fund|E||N|N|19941007|6|N|Y|1530|500.00|500.00|1530|0.00|0.0000|0.00|0.0000|1||Y|Y|BTP
+CG-LTF|UOBAM|กองทุนเปิด บรรษัทภิบาล หุ้นระยะยาว|Good Corporate Governance Long Term Equity Fund|E|LTF|N|N|20041027|6|N|N|1530|2000.00|0.01|1500|0.01|0.0001|0.00|0.0000|4||Y|Y|CG-LTF
+CG-RMF|UOBAM|กองทุนเปิด บรรษัทภิบาล เพื่อการเลี้ยงชีพ|Good Corporate Governance RMF|E|RMF|N|N|20161220|6|N|N|1530|2000.00|0.01|1500|0.01|0.0001|0.00|0.0000|4||Y|Y|CG-RMF
+CIMB-PRINCIPAL (FAM) DEF|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล (แฟม) หุ้นปันผล|CIMB-Principal (FAM) Dividend Equity Fund|E||N|Y|20120229|6|N|N|1530|1000.00|0.01|1530|||||3||Y|Y|CIMB-PRINCIPAL (FAM) DEF
+CIMB-PRINCIPAL (FAM) EEF|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล (แฟม) SET เพิ่มพูนปันผล|CIMB-Principal (FAM) Enhanced Equity Fund|E||N|Y|20050719|6|N|N|1530|2000.00|0.01|1530|||||3||Y|Y|CIMB-PRINCIPAL (FAM) EEF
+CIMB-PRINCIPAL (FAM) FBVRMF|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล (แฟม) เพิ่มพูนทรัพย์ ฟอร์เรน เบลนด์ เพื่อการเลี้ยงชีพ|CIMB-Principal (FAM) Foreign Blend Value Plus Retirement Mutual Fund|F|RMF|N|N|20101124|2|Y|N|1530|2000.00|0.01|1530|||||2||Y|Y|CIMB-PRINCIPAL (FAM) FBVRMF
+CIMB-PRINCIPAL (FAM) FI|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล (แฟม) ตราสารหนี้|CIMB-Principal (FAM) Fixed Income Fund|F||N|N|20081217|4|N|N|1530|100000.00|100000.00|1530|||||1||Y|Y|CIMB-PRINCIPAL (FAM) FI
+CIMB-PRINCIPAL (FAM) FIPR6M6|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล (แฟม) ตราสารหนี้พลัส โรล โอเวอร์ 6เดือน6|CIMB-Principal (FAM) Fixed Income Plus Roll Over 6Month6 Fund|F||N|N|20130129|4|N|Y|1530|||1530|||||1||Y|Y|CIMB-PRINCIPAL (FAM) FIPR6M6
+CIMB-PRINCIPAL (FAM) GCF|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล (แฟม) โกลบอล คอมมอดิตี้|CIMB-Principal (FAM) Global Commodities Fund|O||N|Y|20070202|8|Y|N|1530|2000.00|0.01|1530|||||4||Y|Y|CIMB-PRINCIPAL (FAM) GCF
+CIMB-PRINCIPAL (FAM) GEF|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล (แฟม) โกลบอล เอควิตี้ส์|CIMB-Principal (FAM) Global Equities Fund|E||N|N|20140507|6|N|N|1530|2000.00|0.01|1530|||||4||Y|Y|CIMB-PRINCIPAL (FAM) GEF
+CIMB-PRINCIPAL (FAM) LTF|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล (แฟม) หุ้นระยะยาว|CIMB-Principal (FAM) Long - Term Equity Fund|E|LTF|N|N|20041213|6|N|N|1530|2000.00|0.01|1530|||||3||Y|Y|CIMB-PRINCIPAL (FAM) LTF
+CIMB-PRINCIPAL (FAM) RMF|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล (แฟม) เพื่อการเลี้ยงชีพ|CIMB-Principal (FAM) Retirement Mutual Fund|M|RMF|N|N|20041213|8|Y|N|1530|2000.00|0.01|1530|||||4||Y|Y|CIMB-PRINCIPAL (FAM) RMF
+CIMB-PRINCIPAL (FAM) RSRMF|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล (แฟม) รีไทร์เมนท์ โซลูชั่น เพื่อการเลี้ยงชีพ|CIMB-Principal (FAM) Retirement Solution RMF|M|RMF|N|N|20111227|8|N|N|1530|2000.00|0.01|1530|||||4||Y|Y|CIMB-PRINCIPAL (FAM) RSRMF
+CIMB-PRINCIPAL (FAM) SET100RMF|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล (แฟม) SET100 เพื่อการเลี้ยงชีพ|CIMB-Principal (FAM) SET100 Retirement Mutual Fund|E|RMF|N|N|20101125|6|N|N|1530|2000.00|0.01|1530|||||3||Y|Y|CIMB-PRINCIPAL (FAM) SET100RMF
+CIMB-PRINCIPAL (FAM) VF|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล (แฟม) เพิ่มพูนทรัพย์|CIMB-Principal (FAM) Value Plus Fund|F||N|N|20101029|1|N|N|1530|2000.00|0.01|1530|||||1||Y|Y|CIMB-PRINCIPAL (FAM) VF
+CIMB-PRINCIPAL 70LTFD|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล ไลฟ์ 70 หุ้นระยะยาวปันผล|CIMB-Principal LIFE 70 Long Term Equity Dividend Fund|E|LTF|N|Y|20050718|6|N|N|1530|1000.00|1000.00|1800|||||4||Y|Y|CIMB-PRINCIPAL 70LTFD
+CIMB-PRINCIPAL APDI|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล เอเชีย แปซิฟิก ไดนามิก อินคัม อิควิตี้|CIMB-Principal Asia Pacific Dynamic Income Equity Fund|E||N|N|20120911|6|N|N|1530|5000.00|5000.00|1500|||||6||Y|Y|CIMB-PRINCIPAL APDI
+CIMB-PRINCIPAL APDI 3+3 (2)|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล เอเชีย แปซิฟิก ไดนามิก อินคัม อิควิตี้ ทริกเกอร์ 3+3 (2)|CIMB-Principal Asia Pacific Dynamic Income Equity Trigger 3+3 Fund (2)|E||N|N|20150519|6|N|N|1530|5000.00|5000.00|1500|||||6||Y|N|CIMB-PRINCIPAL APDI 3+3 (2)
+CIMB-PRINCIPAL APDIRMF|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล เอเชีย แปซิฟิก ไดนามิก อินคัม อิควิตี้เพื่อการเลี้ยงชีพ|CIMB-Principal Asia Pacific Dynamic Income Equity Retirement Mutual Fund|E|RMF|N|N|20141226|6|N|N|1530|5000.00|5000.00|1500|||||6||Y|Y|CIMB-PRINCIPAL APDIRMF
+CIMB-PRINCIPAL CII|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล เดลี่ ไชน่า-อินเดีย-อินโด อิควิตี้|CIMB-Principal Daily China-India-Indo Equity Fund|E||N|N|20101116|6|N|N|1530|5000.00|5000.00|1500|||||6||Y|Y|CIMB-PRINCIPAL CII
+CIMB-PRINCIPAL DAILY FIX|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล เดลี่ ตราสารหนี้|CIMB-Principal Daily Fixed Income Fund|F||N|N|20070301|4|N|N|1530|1000.00|1000.00|1500|||||1||Y|Y|CIMB-PRINCIPAL DAILY FIX
+CIMB-PRINCIPAL DPLUS|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล เดลี่ อินคัม พลัส|CIMB-Principal Daily Income Plus Fund|F||N|N|20150224|4|N|N|1530|1000.00|1000.00|1500|||||1||Y|Y|CIMB-PRINCIPAL DPLUS
+CIMB-PRINCIPAL EPIF|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล ดัชนีธุรกิจพลังงานและธุรกิจปิโตรเคมีและเคมีภัณฑ์|CIMB-Principal Energy and Petrochemical Index Fund|E||N|Y|20080821|7|N|N|1530|1000.00|0.01|1530|||||3||Y|Y|CIMB-PRINCIPAL EPIF
+CIMB-PRINCIPAL EQRMF|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล ไลฟ์ หุ้นทุนเพื่อการเลี้ยงชีพ|CIMB-Principal LIFE Equity Retirement Mutual Fund|E|RMF|N|N|20061115|6|N|N|1530|5000.00|5000.00|1500|||||4||Y|Y|CIMB-PRINCIPAL EQRMF
+CIMB-PRINCIPAL ER 6M15|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล เอ็นแฮนซ์ รีเทิร์น 6M15|CIMB-Principal Enhanced Return 6M15 Fund|F||N|N|20161215|4|N|N|1530|500000.00|500000.00|1500|||||0||N|N|
+CIMB-PRINCIPAL EUEQ|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล ยูโรเปี้ยน อิควิตี้|CIMB-Principal European Equity Fund|E||N|N|20150616|6|N|N|1530|5000.00|5000.00|1500|||||6||Y|Y|CIMB-PRINCIPAL EUEQ
+CIMB-PRINCIPAL EUHY|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล ยูโร ไฮ ยิลด์|CIMB-Principal Euro High Yield Fund|M||N|N|20141028|5|N|N|1530|510000.00|5000.00|1500|||||6||Y|Y|CIMB-PRINCIPAL EUHY
+CIMB-PRINCIPAL FIRMF|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล ไลฟ์ ตราสารหนี้เพื่อการเลี้ยงชีพ|CIMB-Principal LIFE Fixed Income Retirement Mutual Fund|F|RMF|N|N|20050805|4|N|N|1530|5000.00|5000.00|1500|||||2||Y|Y|CIMB-PRINCIPAL FIRMF
+CIMB-PRINCIPAL GBF|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล โกลบอล บาลานซ์|CIMB-Principal Global Balanced Fund|M||N|N|20150331|5|N|N|1530|510000.00|5000.00|1500|||||6||Y|Y|CIMB-PRINCIPAL GBF
+CIMB-PRINCIPAL GEQ|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล เยอรมัน อิควิตี้|CIMB-Principal German Equity Fund|E||N|N|20160705|6|N|N|1530|5000.00|5000.00|1500|||||6||Y|Y|CIMB-PRINCIPAL GEQ
+CIMB-PRINCIPAL GIF|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล โกลบอล อินฟราสตรัคเจอร์ อิควิตี้|CIMB-Principal Global Infrastructure Equity Fund|E||N|N|20160209|6|N|N|1530|5000.00|5000.00|1500|||||6||Y|Y|CIMB-PRINCIPAL GIF
+CIMB-PRINCIPAL GOLD8P|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล โกลด์ 8 เปอร์เซ็นต์ ทริกเกอร์|CIMB-Principal Gold 8 Percent Trigger Fund|O||N|N|20120302|8|N|N|1530|1000.00|1000.00|1500|||||5||Y|Y|CIMB-PRINCIPAL GOLD8P
+CIMB-PRINCIPAL GOLD8P2|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล โกลด์ 8 เปอร์เซ็นต์ ทริกเกอร์ 2|CIMB-Principal Gold 8 Percent Trigger 2 Fund|O||N|N|20120503|8|N|N|1530|1000.00|1000.00|1500|||||5||Y|Y|CIMB-PRINCIPAL GOLD8P2
+CIMB-PRINCIPAL GOPP-A|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล โกลบอล ออพพอร์ทูนิตี้|CIMB-Principal Global Opportunity Fund|E||N|N|20170523|6|N|N|1530|5000.00|5000.00|1500|||||6||Y|Y|CIMB-PRINCIPAL GOPP
+CIMB-PRINCIPAL GREITs|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล โกลบอล รีทส์|CIMB-Principal Global REITs Fund|E||N|Y|20170307|8|N|N|1530|5000.00|5000.00|1500|||||6||Y|Y|CIMB-PRINCIPAL GREITs
+CIMB-PRINCIPAL GSA|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล โกลบอล ซิลเวอร์ เอจ|CIMB-Principal Global Silver Age Fund|E||N|N|20151006|6|N|N|1530|5000.00|5000.00|1500|||||6||Y|Y|CIMB-PRINCIPAL GSA
+CIMB-PRINCIPAL iBALANCED-R|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล บาลานซ์ อินคัม|CIMB-Principal Balanced Income Fund|M||N|Y|20130906|5|N|N|1530|1000.00|1000.00|1500|||||4||Y|Y|CIMB-PRINCIPAL iBALANCED
+CIMB-PRINCIPAL iDAILY-A|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล เดลี่ อินคัม|CIMB-Principal Daily Income Fund|F||N|Y|20120411|4|N|N|1530|1000.00|1000.00|1500|||||1||Y|Y|CIMB-PRINCIPAL iDAILY
+CIMB-PRINCIPAL iDAILY-C|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล เดลี่ อินคัม|CIMB-Principal Daily Income Fund|F||N|Y|20120411|4|N|N|1530|1.00|1.00|1500|||||1||Y|Y|CIMB-PRINCIPAL iDAILY
+CIMB-PRINCIPAL iDAILY-D|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล เดลี่ อินคัม|CIMB-Principal Daily Income Fund|F||N|Y|20120411|4|N|N|1530|1000.00|1000.00|1500|||||1||Y|Y|CIMB-PRINCIPAL iDAILY
+CIMB-PRINCIPAL iDAILY-R|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล เดลี่ อินคัม|CIMB-Principal Daily Income Fund|F||N|Y|20120411|4|N|N|1530|1000.00|1000.00|1500|||||1||Y|Y|CIMB-PRINCIPAL iDAILY
+CIMB-PRINCIPAL iDIV-A|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล อิควิตี้ ดิวิเดนด์ อินคัม|CIMB-Principal Equity Dividend Income Fund|E||N|Y|20120529|6|N|N|1530|1000.00|1000.00|1500|||||4||Y|Y|CIMB-PRINCIPAL iDIV
+CIMB-PRINCIPAL iDIV-C|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล อิควิตี้ ดิวิเดนด์ อินคัม|CIMB-Principal Equity Dividend Income Fund|E||N|Y|20120529|6|N|N|1530|1.00|1.00|1500|||||4||Y|Y|CIMB-PRINCIPAL iDIV
+CIMB-PRINCIPAL iDIV-D|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล อิควิตี้ ดิวิเดนด์ อินคัม|CIMB-Principal Equity Dividend Income Fund|E||N|Y|20120529|6|N|N|1530|1000.00|1000.00|1500|||||4||Y|Y|CIMB-PRINCIPAL iDIV
+CIMB-PRINCIPAL iDIV-R|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล อิควิตี้ ดิวิเดนด์ อินคัม|CIMB-Principal Equity Dividend Income Fund|E||N|Y|20120529|6|N|N|1530|1000.00|1000.00|1500|||||4||Y|Y|CIMB-PRINCIPAL iDIV
+CIMB-PRINCIPAL iFIXED-A|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล คอร์ ฟิกซ์ อินคัม|CIMB-Principal Core Fixed Income Fund|F||N|Y|20121207|4|N|N|1530|1000.00|1000.00|1500|||||2||Y|Y|CIMB-PRINCIPAL iFIXED
+CIMB-PRINCIPAL iFIXED-C|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล คอร์ ฟิกซ์ อินคัม|CIMB-Principal Core Fixed Income Fund|F||N|Y|20121207|4|N|N|1530|1.00|1.00|1500|||||2||Y|Y|CIMB-PRINCIPAL iFIXED
+CIMB-PRINCIPAL iFIXED-R|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล คอร์ ฟิกซ์ อินคัม|CIMB-Principal Core Fixed Income Fund|F||N|Y|20121207|4|N|N|1530|1000.00|1000.00|1500|||||2||Y|Y|CIMB-PRINCIPAL iFIXED
+CIMB-PRINCIPAL iGOLD-A|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล โกลด์ อินคัม|CIMB-Principal Gold Income Fund|O||N|Y|20121116|8|N|N|1530|1000.00|1000.00|1500|||||5||Y|Y|CIMB-PRINCIPAL iGOLD
+CIMB-PRINCIPAL iGOLD-R|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล โกลด์ อินคัม|CIMB-Principal Gold Income Fund|O||N|Y|20121116|8|N|N|1530|1000.00|1000.00|1500|||||5||Y|Y|CIMB-PRINCIPAL iGOLD
+CIMB-PRINCIPAL iPROP-A|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล พร็อพเพอร์ตี้ อินคัม|CIMB-Principal Property Income Fund|E||N|Y|20120217|8|N|N|1530|5000.00|5000.00|1500|||||5||Y|Y|CIMB-PRINCIPAL iPROP
+CIMB-PRINCIPAL iPROP-C|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล พร็อพเพอร์ตี้ อินคัม|CIMB-Principal Property Income Fund|E||N|Y|20120217|8|N|N|1530|1.00|1.00|1500|||||5||Y|Y|CIMB-PRINCIPAL iPROP
+CIMB-PRINCIPAL iPROP-D|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล พร็อพเพอร์ตี้ อินคัม|CIMB-Principal Property Income Fund|E||N|Y|20120217|8|N|N|1530|5000.00|5000.00|1500|||||5||Y|Y|CIMB-PRINCIPAL iPROP
+CIMB-PRINCIPAL iPROP-R|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล พร็อพเพอร์ตี้ อินคัม|CIMB-Principal Property Income Fund|E||N|Y|20120217|8|N|N|1530|5000.00|5000.00|1500|||||5||Y|Y|CIMB-PRINCIPAL iPROP
+CIMB-PRINCIPAL iPROPRMF|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล พร็อพเพอร์ตี้ อินคัมเพื่อการเลี้ยงชี|CIMB-Principal Property Income Retirement Mutual Fund|E|RMF|N|N|20121220|7|N|N|1530|5000.00|5000.00|1500|||||5||Y|Y|CIMB-PRINCIPAL iPROPRMF
+CIMB-PRINCIPAL JEQ|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล เจแปนนิส อิควิตี้|CIMB-Principal Japanese Equity Fund|E||N|N|20140213|6|N|N|1530|5000.00|5000.00|1500|||||6||Y|Y|CIMB-PRINCIPAL JEQ
+CIMB-PRINCIPAL KEQ|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล เกาหลี อิควิตี้|CIMB-Principal Korea Equity Fund|E||N|N|20140410|6|N|N|1530|5000.00|5000.00|1500|||||6||Y|Y|CIMB-PRINCIPAL KEQ
+CIMB-PRINCIPAL LTF|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล ไลฟ์ หุ้นระยะยาว|CIMB-Principal LIFE Long Term Equity Fund|E|LTF|N|N|20051201|6|N|N|1530|1000.00|1000.00|1500|||||4||Y|Y|CIMB-PRINCIPAL LTF
+CIMB-PRINCIPAL PRMF|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล ไลฟ์ มุ่งรักษาเงินต้นเพื่อการเลี้ยงชีพ|CIMB-Principal LTFE Protected Retirement Mutual Fund|F|RMF|N|N|20051201|3|N|N|1530|5000.00|5000.00|1500|||||2||Y|Y|CIMB-PRINCIPAL PRMF
+CIMB-PRINCIPAL SET50|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล เดลี่ เซ็ท 50 อินเด็กซ์|CIMB-Principal Daily SET 50 Index Fund|E||N|N|20100114|6|N|N|1530|1000.00|1000.00|1500|||||4||Y|Y|CIMB-PRINCIPAL SET50
+CIMB-PRINCIPAL SIF|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล สตราทีจิค อินคัม ฟันด์|CIMB-Principal Strategic Income Fund|M||N|N|20160519|5|N|N|1530|5000.00|5000.00|1500|||||5||Y|Y|CIMB-PRINCIPAL SIF
+CIMB-PRINCIPAL TDIF|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล ไทย ไดนามิก อินคัม อิควิตี้|CIMB-Principal Thai Dynamic Income Equity  Fund|E||N|Y|20170131|6|N|Y|1530|||1530|||||0||Y|Y|CIMB-PRINCIPAL TDIF
+CIMB-PRINCIPAL TDIF-D|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล ไทย ไดนามิก อินคัม อิควิตี้|CIMB-Principal Thai Dynamic Income Equity  Fund|E||N|Y|20170131|6|N|N|1530|5000.00|5000.00|1500|||||4||Y|Y|CIMB-PRINCIPAL TDIF
+CIMB-PRINCIPAL TREASURY|CPAM|กองทุนเปิดซีไอเอ็มบี-พรินซิเพิล เดลี่ ตราสารรัฐระยะสั้น|CIMB-Principal Daily Treasury Fund|F||N|N|20090623|2|N|N|1530|0.00|0.00|1500|||||1||Y|Y|CIMB-PRINCIPAL TREASURY
+CPAM APDE|CPAM|กองทุนเปิดซีแพม เอเชีย แปซิฟิก ไดนามิก อิควิตี้|CPAM Asia Pacific Dynamic Equity Fund|E||N|N|20140731|6|N|N|1530|5000.00|5000.00|1500|||||6||Y|Y|CPAM APDE
+CPAM GSCEQ-R|CPAM|กองทุนเปิดซีแพม โกลบอล สมอล แค็พ อิควิตี้|CPAM Global Small Cap Equity Fund|E||N|Y|20140514|6|N|N|1530|5000.00|5000.00|1500|||||6||Y|Y|CPAM GSCEQ
+CPAM KOEQ|CPAM|กองทุนเปิดซีแพม เกาหลี อิควิตี้|CPAM Korea Equity Fund|E||N|N|20140617|6|N|N|1530|5000.00|5000.00|1500|||||6||Y|Y|CPAM KOEQ
+CPAM KOEQ2.5x4|CPAM|กองทุนเปิดซีแพม เกาหลี อิควิตี้ ทริกเกอร์ 2.5x4|CPAM Korea Equity Trigger 2.5x4 Fund|E||N|N|20140616|6|N|N|1530|5000.00|5000.00|1500|||||6||Y|Y|CPAM KOEQ2.5x4
+CPRMF1|UOBAM|กองทุนเปิด มุ่งรักษาเงินต้นเพื่อการเลี้ยงชีพ 1|Capital Protected Retirement Mutual Fund 1|M|RMF|N|N|20021220|5|N|N|1530|2000.00|0.01|2359|0.01|0.0001|0.00|0.0000|4||Y|Y|CPRMF1
+CPRMF2|UOBAM|กองทุนเปิด มุ่งรักษาเงินต้นเพื่อการเลี้ยงชีพ 2|Capital Protected Retirement Mutual Fund 2|M|RMF|N|N|20031219|5|N|N|1530|2000.00|0.01|2359|0.01|0.0001|0.00|0.0000|4||Y|Y|CPRMF2
+CPRMF3|UOBAM|กองทุนเปิด มุ่งรักษาเงินต้นเพื่อการเลี้ยงชีพ 3|Capital Protected Retirement Mutual Fund 3|M|RMF|N|N|20041222|5|N|N|2359|2000.00|0.01|2359|0.01|0.0001|0.00|0.0000|4||Y|Y|CPRMF3
+CPRMF4|UOBAM|กองทุนเปิด มุ่งรักษาเงินต้นเพื่อการเลี้ยงชีพ 4|Capital Protected Retirement Mutual Fund 4|M|RMF|N|N|20051219|5|N|N|1530|2000.00|0.01|1500|0.01|0.0001|0.00|0.0000|4||Y|Y|CPRMF4
+CPRMF5|UOBAM|กองทุนเปิด มุ่งรักษาเงินต้นเพื่อการเลี้ยงชีพ 5|Capital Protected Retirement Mutual Fund 5|M|RMF|N|N|20061225|5|N|N|1530|2000.00|0.01|2359|0.01|0.0001|0.00|0.0000|4||Y|Y|CPRMF5
+EHD|UOBAM|กองทุนเปิด ยูโร ไฮดิวิเดนด์|Euro High Dividend Fund|E||N|N|20070404|6|Y|N|1530|2000.00|0.01|1500|0.01|0.0001|0.00|0.0000|5||Y|Y|EHD
+EP-LTF|S-FUNDS|กองทุนเปิดเอคควิตี้โปร หุ้นระยะยาว|EQUITY PRO LTF|E|LTF|N|N|20070627|4|Y|N|1530|||1530|||||1||Y|Y|EP-LTF
+ERMF|UOBAM|กองทุนเปิด หุ้นทุนเพื่อการเลี้ยงชีพ|Equity Retirement Mutual Fund|E|RMF|N|N|20021219|6|N|N|1530|2000.00|0.01|1500|0.01|0.0001|0.00|0.0000|4||Y|Y|ERMF
+GBRMF|UOBAM|กองทุนเปิด พันธบัตรเพื่อการเลี้ยงชีพ|Government Bond Retirement Mutual Fund|F|RMF|N|N|20021219|3|N|N|1530|2000.00|0.01|1400|0.01|0.0001|0.00|0.0000|1||Y|Y|GBRMF
+GC|UOBAM|กองทุนเปิด เกรธเธอร์ ไชน่า|Greater China Fund|E||N|N|20090722|6|Y|N|1530|2000.00|0.01|1500|0.01|0.0001|0.00|0.0000|5||Y|Y|GC
+JB25 LTF|TMBAM|กองทุนเปิด JUMBO 25 ปันผล หุ้นระยะยาว|JUMBO 25 Dividend Long Term Equity Fund|E|LTF|N|Y|20041111|4|N|N|1530|||1530|||||1||Y|Y|JB25 LTF
+JSM|UOBAM|กองทุนเปิด เจแปน สมอล แอนด์ มิด แคป ฟันด์|Japan Small And Mid Cap Fund|E||N|N|20140325|6|Y|N|1530|2000.00|1.00|1400|1.00|1.0000|0.00|0.0000|5||Y|Y|JSM
+K-FIXEDPLUS|KASSET|กองทุนเปิดเค ตราสารหนี้ พลัส|K Fixed Income Plus Fund|F||N|N|20170802|4|Y|N|1530|500.00|500.00|1530|500.00||500.00||2||Y|Y|K-FIXEDPLUS
+K-GHEALTH|KASSET|กองทุนเปิดเค โกลบอล เฮลท์แคร์ หุ้นทุน|K Global Healthcare Equity Fund|E||N|Y|20141126|4|Y|N|1530|||1530|||||1||Y|Y|K-GHEALTH
+K-SF|KASSET|กองทุนเปิดเค ตราสารหนี้ระยะสั้น|K Short Term Fixed Income Fund|F||N|N|20130605|4|Y|N|1530|||1530|||||1||Y|Y|K-SF
+K70LTF|KASSET|กองทุนเปิดเค 70:30 หุ้นระยะยาวปันผล|K Equity 70:30 LTF|E|LTF|N|Y|20051129|4|Y|N|1530|||1530|||||1||Y|Y|K70LTF
+KAEQ|KASSET|กองทุนเปิดเคเอ เอควิตี้|KA Equity Fund|E||N|N|20021115|4|Y|N|1530|||1530|||||1||Y|Y|KAEQ
+KEQRMF|KASSET|กองทุนเปิดเค หุ้นทุนเพื่อการเลี้ยงชีพ|K Equity RMF|E|RMF|N|N|20061222|4|Y|N|1530|||1530|||||1||Y|Y|KEQRMF
+KF-AINCOME|KSAM|กองทุนเปิดกรุงศรีเอเชียนอินคัมเฮดจ์|Krungsri Asian Income Hedged Fund|M||N|N|20150529|5|N|N|1530|50000.00|2000.00|1430|2000.00|200.0000|0.00|200.0000|4||Y|Y|KF-AINCOME
+KF-ASEAN|KSAM|กองทุนเปิดกรุงศรีอาเซียนนิวมาร์เก็ต|Krungsri ASEAN New Markets Fund|O||N|N|20080402|6|Y|N|1530|2000.00|2000.00|1430|2000.00|200.0000|0.00|200.0000|3||Y|Y|KF-ASEAN
+KF-BRIC|KSAM|กองทุนเปิดกรุงศรีบริคสตาร์|Krungsri BRIC Stars Fund|O||N|N|20071122|6|Y|N|1530|2000.00|2000.00|1430|2000.00|200.0000|0.00|200.0000|3||Y|Y|KF-BRIC
+KF-CHINA|KSAM|กองทุนเปิดกรุงศรีไชน่าอิควิตี้|Krungsri China Equity Fund|E||N|N|20100129|6|Y|N|1300|2000.00|2000.00|1300|2000.00|200.0000|0.00|200.0000|3||Y|Y|KF-CHINA
+KF-CINCOME|KSAM|กองทุนเปิดกรุงศรีคอลเล็คทีฟโกลบอลอินคัม|Krungsri Collective Global Income Fund|M||N|N|20151105|5|Y|N|1530|2000.00|2000.00|1430|2000.00|200.0000|0.00|200.0000|3||Y|Y|KF-CINCOME
+KF-CSINCOM|KSAM|กองทุนเปิดกรุงศรีโกลบอลคอลเล็คทีฟสมาร์ทอินคัม|Krungsri Global Collective Smart Income Fund|M||N|N|20160930|4|N|N|1530|2000.00|2000.00|1530|2000.00|200.0000|0.00|200.0000|2||Y|Y|KF-CSINCOM
+KF-ELI|KSAM|กองทุนเปิดกรุงศรีอีเมอร์จิ้งโลคอลอินเวสเม้นท์|Krungsri Emerging Local Investment Fund|M||N|N|20121130|4|N|N|1530|2000.00|2000.00|1530|2000.00|200.0000|0.00|200.0000|2||Y|Y|KF-ELI
+KF-EM|KSAM|กองทุนเปิดกรุงศรีอีเมอร์จิ้งมาร์เก็ตส์อิควิตี้|Krungsri Emerging Markets Equity Fund|E||N|N|20121019|6|Y|N|1530|2000.00|2000.00|1530|2000.00|200.0000|0.00|200.0000|3||Y|Y|KF-EM
+KF-EUROPE|KSAM|กองทุนเปิดกรุงศรียุโรปอิควิตี้|Krungsri Europe Equity Fund|E||N|N|20130530|6|Y|N|1530|2000.00|2000.00|1430|2000.00|200.0000|0.00|200.0000|3||Y|Y|KF-EUROPE
+KF-GBLVAL|KSAM|กองทุนเปิดกรุงศรีโกลบอลไฮเพย์เอาท์|Krungsri Global High Payout Fund|E||N|N|20070731|6|Y|N|1530|2000.00|2000.00|1430|2000.00|200.0000|0.00|200.0000|5||Y|Y|KF-GBLVAL
+KF-GBRAND|KSAM|กองทุนเปิดกรุงศรีโกลบอลแบรนด์อิควิตี้ปันผล|Krungsri Global Brands Equity Dividend Fund|E||N|Y|20160805|6|Y|N|1530|2000.00|2000.00|1530|2000.00|200.0000|0.00|200.0000|3||Y|Y|KF-GBRAND
+KF-GLS|KSAM|กองทุนเปิดกรุงศรีโกลบอลอิควิตี้ลองชอร์ต|Krungsri Global Equity Long Short Fund|E||N|N|20160617|6|Y|N|1530|2000.00|2000.00|1530|2000.00|200.0000|0.00|200.0000|2||Y|Y|KF-GLS
+KF-GOLD|KSAM|กองทุนเปิดกรุงศรีโกลด์|Krungsri Gold Fund|O||N|N|20090317|8|Y|N|1530|2000.00|2000.00|1300|2000.00|200.0000|0.00|200.0000|3||Y|Y|KF-GOLD
+KF-GPROPD|KSAM|กองทุนเปิดกรุงศรีโกลบอลพร็อพเพอร์ตี้ปันผล|Krungsri Global Property Dividend Fund|M||N|Y|20160331|7|Y|N|1530|2000.00|2000.00|1530|2000.00|200.0000|0.00|200.0000|3||Y|Y|KF-GPROPD
+KF-GTECH|KSAM|กองทุนเปิดกรุงศรีโกลบอลเทคโนโลยีอิควิตี้|Krungsri Global Technology Equity Fund|E||N|N|20170217|7|Y|N|1530|1000.00|1000.00|1530|1000.00|100.0000|0.00|100.0000|3||Y|Y|KF-GTECH
+KF-HCHINAD|KSAM|กองทุนเปิดกรุงศรีเกรทเทอร์ไชน่าอิควิตี้เฮดจ์ปันผล|Krungsri Greater China Equity Hedged Dividend Fund|E||N|Y|20150427|6|N|N|1530|2000.00|2000.00|1430|2000.00|200.0000|0.00|200.0000|4||Y|Y|KF-HCHINAD
+KF-HEALTHD|KSAM|กองทุนเปิดกรุงศรีโกลบอลเฮลธ์แคร์อิควิตี้ปันผล|Krungsri Global Healthcare Equity Dividend Fund|E||N|Y|20140801|7|Y|N|1530|2000.00|2000.00|1430|2000.00|200.0000|0.00|200.0000|3||Y|Y|KF-HEALTHD
+KF-HEUROPE|KSAM|กองทุนเปิดกรุงศรียุโรปอิควิตี้เฮดจ์|Krungsri Europe Equity Hedged Fund|E||N|N|20141106|6|N|N|1530|2000.00|2000.00|1430|2000.00|200.0000|0.00|200.0000|3||Y|Y|KF-HEUROPE
+KF-HGOLD|KSAM|กองทุนเปิดกรุงศรีโกลด์เฮดจ์|Krungsri Gold Hedged Fund|O||N|N|20120712|8|N|N|1530|2000.00|2000.00|1300|2000.00|200.0000|0.00|200.0000|3||Y|Y|KF-HGOLD
+KF-HJAPAND|KSAM|กองทุนเปิดกรุงศรีเจแปนเฮดจ์ปันผล|Krungsri Japan Hedged Dividend Fund|M||N|Y|20150213|5|N|N|1530|2000.00|2000.00|1530|2000.00|200.0000|0.00|200.0000|4||Y|Y|KF-HJAPAND
+KF-HJPINDX|KSAM|กองทุนเปิดกรุงศรีเจแปนอิควิตี้อินเด็กซ์เฮดจ์เอฟเอ็กซ์|Krungsri Japan Equity Index Hedged FX Fund|E||N|N|20170331|6|N|N|1200|1000.00|1000.00|1200|1000.00|100.0000|0.00|100.0000|4||Y|Y|KF-HJPINDX
+KF-HSMUS|KSAM|กองทุนเปิดกรุงศรียูเอสสมอล-มิดแคปอิควิตี้เฮดจ์เอฟเอ็กซ์|Krungsri US Small-Mid Cap Equity Hedged FX Fund|E||N|N|20170630|6|N|N|1530|2000.00|2000.00|1430|2000.00|200.0000|0.00|200.0000|3||Y|Y|KF-HSMUS
+KF-HUSINDX|KSAM|กองทุนเปิดกรุงศรียูเอสอิควิตี้อินเด็กซ์เฮดจ์เอฟเอ็กซ์|Krungsri US Equity Index Hedged FX Fund|E||N|N|20170331|6|N|N|1530|1000.00|1000.00|1530|1000.00|100.0000|0.00|100.0000|2||Y|Y|KF-HUSINDX
+KF-INCOME|KSAM|กองทุนเปิดกรุงศรีโกลบอลอินคัม|Krungsri Global Income Fund|M||N|N|20141204|5|Y|N|1530|50000.00|2000.00|1430|2000.00|200.0000|0.00|200.0000|3||Y|Y|KF-INCOME
+KF-INDIA|KSAM|กองทุนเปิดกรุงศรีอินเดียอิควิตี้|Krungsri India Equity Fund|E||N|N|20170922|6|Y|N|1530|2000.00|2000.00|1430|2000.00|200.0000|0.00|200.0000|4||Y|Y|KF-INDIA
+KF-JPSCAP|KSAM|กองทุนเปิดกรุงศรีเจแปนสมอลแคปอิควิตี้|Krungsri Japan Small Cap Equity Fund|E||N|N|20170526|6|Y|N|1200|2000.00|2000.00|1200|2000.00|200.0000|0.00|200.0000|4||Y|Y|KF-JPSCAP
+KF-JPSCAPD|KSAM|กองทุนเปิดกรุงศรีเจแปนสมอลแคปอิควิตี้ปันผล|Krungsri Japan Small Cap Equity Dividend Fund|E||N|Y|20170529|6|Y|N|1200|2000.00|2000.00|1200|2000.00|200.0000|0.00|200.0000|4||Y|Y|KF-JPSCAPD
+KF-LATAM|KSAM|กองทุนเปิดกรุงศรีลาตินอเมริกาอิควิตี้|Krungsri Latin America Equity Fund|E||N|N|20100209|6|Y|N|1530|2000.00|2000.00|1300|2000.00|200.0000|0.00|200.0000|3||Y|Y|KF-LATAM
+KF-MINCOME|KSAM|กองทุนเปิดกรุงศรีโกลบอลมัลติแอสเซทอินคัมเฮดจ์เอฟเอ็กซ์|Krungsri Global Multi Asset Income Hedged FX Fund|M||N|N|20170811|5|N|N|1530|50000.00|2000.00|1430|2000.00|200.0000|0.00|200.0000|3||Y|Y|KF-MINCOME
+KF-OIL|KSAM|กองทุนเปิดกรุงศรีออยล์|Krungsri Oil Fund|O||N|N|20090528|8|Y|N|1530|2000.00|2000.00|1530|2000.00|200.0000|0.00|200.0000|2||Y|Y|KF-OIL
+KF-ORTFLEX|KSAM|กองทุนเปิดกรุงศรีโอเรียนทัลเฟล็กซ์|Krungsri Oriental Flexible Fund|M||N|N|20070301|5|Y|N|1530|2000.00|2000.00|1430|2000.00|200.0000|0.00|200.0000|3||Y|Y|KF-ORTFLEX
+KF-SINCOME|KSAM|กองทุนเปิดกรุงศรีโกลบอลสมาร์ทอินคัม|Krungsri Global Smart Income Fund|M||N|N|20160930|4|N|N|1530|2000.00|2000.00|1530|2000.00|200.0000|0.00|200.0000|2||Y|Y|KF-SINCOME
+KF-SMCAPD|KSAM|กองทุนเปิดกรุงศรีโกลบอลสมอล-มิดแคปอิควิตี้ปันผล|Krungsri Global Small-Mid Cap Equity Dividend Fund|E||N|Y|20140919|6|Y|N|1530|2000.00|2000.00|1430|2000.00|200.0000|0.00|200.0000|3||Y|Y|KF-SMCAPD
+KF-TRB|KSAM|กองทุนเปิดกรุงศรีโทเทิลรีเทิร์นบอนด์|Krungsri Total Return Bond Fund|F||N|N|20101014|4|N|N|1530|2000.00|2000.00|1530|2000.00|200.0000|0.00|200.0000|2||Y|Y|KF-TRB
+KF-US|KSAM|กองทุนเปิดกรุงศรียูเอสอิควิตี้|Krungsri US Equity Fund|E||N|N|20120511|6|Y|N|1530|2000.00|2000.00|1430|2000.00|200.0000|0.00|200.0000|3||Y|Y|KF-US
+KFAFIX|KSAM|กองทุนเปิดกรุงศรีแอคทีฟตราสารหนี้|Krungsri Active Fixed Income Fund|F||N|N|20161021|4|N|Y|1530|2000.00|2000.00|1530|2000.00|200.0000|0.00|200.0000|2||Y|Y|KFAFIX
+KFCASH|KSAM|กองทุนเปิดกรุงศรีตราสารเงิน|Krungsri Cash Management Fund|F||N|N|20040304|1|N|Y|1530|2000.00|2000.00|1530|2000.00|200.0000|0.00|0.0000|1||Y|Y|KFCASH
+KFCASHPLUS|KSAM|กองทุนเปิดกรุงศรีตราสารเงินพลัส|Krungsri Cash Plus Fund|F||N|N|20071214|2|N|Y|1530|2000.00|2000.00|1530|1000.00|100.0000|0.00|0.0000|1||Y|Y|KFCASHPLUS
+KFCASHRMF|KSAM|กองทุนเปิดกรุงศรีตราสารเงินเพื่อการเลี้ยงชีพ|Krungsri Cash RMF|F|RMF|N|N|20041029|1|N|Y|1530|2000.00|2000.00|1530|0.00|0.0000|0.00|0.0000|1||Y|Y|KFCASHRMF
+KFCHINARMF|KSAM|กองทุนเปิดกรุงศรีเกรทเทอร์ไชน่าอิควิตี้เฮดจ์เอฟเอ็กซ์เพื่อการเลี้ยงชีพ|Krungsri Greater China Equity Hedged FX RMF|E|RMF|N|N||6|N|N|1530|2000.00|2000.00|1430|0.00|0.0000|0.00|0.0000|4||Y|Y|
+KFDIVRMF|KSAM|กองทุนเปิดกรุงศรีหุ้นปันผลเพื่อการเลี้ยงชีพ|Krungsri Dividend Stock RMF|E|RMF|N|N|20071227|6|N|Y|1530|2000.00|2000.00|1530|0.00|0.0000|0.00|0.0000|4||Y|Y|KFDIVRMF
+KFDNM-D|KSAM|กองทุนเปิดกรุงศรีหุ้นไดนามิคปันผล|Krungsri Dynamic Dividend Fund|E||N|Y|20040331|6|N|Y|1530|2000.00|2000.00|1530|2000.00|200.0000|0.00|200.0000|4||Y|Y|KFDNM-D
+KFDYNAMIC|KSAM|กองทุนเปิดกรุงศรีหุ้นไดนามิค|Krungsri Dynamic Fund|E||N|N|20031106|6|N|Y|1530|2000.00|2000.00|1530|2000.00|200.0000|0.00|200.0000|4||Y|Y|KFDYNAMIC
+KFENSET50|KSAM|กองทุนเปิดกรุงศรีเอ็นแฮนซ์เซ็ท 50|Krungsri Enhanced SET50 Fund|E||N|N|20071005|6|N|Y|1530|2000.00|2000.00|1530|2000.00|200.0000|0.00|200.0000|4||Y|Y|KFENSET50
+KFEQRMF|KSAM|กองทุนเปิดกรุงศรีอิควิตี้เพื่อการเลี้ยงชีพ|Krungsri Equity RMF|E|RMF|N|N|20060712|6|N|Y|1530|2000.00|2000.00|1530|0.00|0.0000|0.00|0.0000|4||Y|Y|KFEQRMF
+KFEURORMF|KSAM|กองทุนเปิดกรุงศรียุโรปอิควิตี้เพื่อการเลี้ยงชีพ|Krungsri Europe Equity RMF|E|RMF|N|N|20141128|6|Y|N|1530|2000.00|2000.00|1430|0.00|0.0000|0.00|0.0000|3||Y|Y|KFEURORMF
+KFF1YDW|KASSET|กองทุนเปิดเค ตราสารหนี้ต่างประเทศ 1 ปี DW|K Foreign Fixed Income 1 Year DW Fund|F||N|N||4|N|N|1530|500.00|0.00|1530|||||1||N|N|KFF1YDW
+KFF6MEL|KASSET|กองทุนเปิดเค ตราสารหนี้ต่างประเทศ 6 เดือน EL|K Foreign Fixed Income 6 Months EL Fund|F||N|N|20171220|4|N|N|1530|500.00|0.00|1530|||||1||N|N|KFF6MEL
+KFF6MEM|KASSET|กองทุนเปิดเค ตราสารหนี้ต่างประเทศ 6 เดือน EM|K Foreign Fixed Income 6 Months EM Fund|F||N|N||4|N|N|1530|500.00|0.00|1530|||||1||N|N|KFF6MEM
+KFFIF6M24|KSAM|กองทุนเปิดกรุงศรีตราสารหนี้ต่างประเทศ 6M24|Krungsri Foreign Fixed Income 6M24 Fund|F||N|N|20170802|4|N|Y|1530|0.00|0.00|1530|0.00|0.0000|0.00|0.0000|0||N|Y|KFFIF6M24
+KFFIF6M25|KSAM|กองทุนเปิดกรุงศรีตราสารหนี้ต่างประเทศ 6M25|Krungsri Foreign Fixed Income 6M25 Fund|F||N|N|20170808|4|N|Y|1530|0.00|0.00|1530|0.00|0.0000|0.00|0.0000|0||N|Y|KFFIF6M25
+KFFIF6M26|KSAM|กองทุนเปิดกรุงศรีตราสารหนี้ต่างประเทศ 6M26|Krungsri Foreign Fixed Income 6M26 Fund|F||N|N|20170822|4|N|Y|1530|0.00|0.00|1530|0.00|0.0000|0.00|0.0000|0||N|Y|KFFIF6M26
+KFFIF6M27|KSAM|กองทุนเปิดกรุงศรีตราสารหนี้ต่างประเทศ 6M27|Krungsri Foreign Fixed Income 6M27 Fund|F||N|N|20170905|4|N|Y|1530|0.00|0.00|1530|0.00|0.0000|0.00|0.0000|0||N|Y|KFFIF6M27
+KFFIF6M28|KSAM|กองทุนเปิดกรุงศรีตราสารหนี้ต่างประเทศ 6M28|Krungsri Foreign Fixed Income 6M28 Fund|F||N|N|20170912|4|N|Y|1530|0.00|0.00|1530|0.00|0.0000|0.00|0.0000|0||N|Y|KFFIF6M28
+KFFIN-D|KSAM|กองทุนเปิดกรุงศรีไฟแนนเชี่ยลโฟกัสปันผล|Krungsri Financial Focus Dividend Fund|E||N|Y|20030828|6|N|Y|1530|2000.00|2000.00|1530|2000.00|200.0000|0.00|200.0000|4||Y|Y|KFFIN-D
+KFFIX6M123|KSAM|กองทุนเปิดกรุงศรีตราสารหนี้ 6M123|Krungsri Fixed Income 6M123 Fund|F||N|N||4|N|Y|1530|0.00|0.00|1530|0.00|0.0000|0.00|0.0000|0||N|Y|
+KFFLEX|KSAM|กองทุนเปิดกรุงศรีเฟล็กซิเบิล|Krungsri Flexible Fund|M||N|N|20061201|5|N|Y|1530|1000.00|1000.00|1530|1000.00|100.0000|0.00|100.0000|4||Y|Y|KFFLEX
+KFFLEX-D|KSAM|กองทุนเปิดกรุงศรีเฟล็กซิเบิ้ลปันผล|Krungsri Flexible Dividend Fund|M||N|Y|20020502|5|N|Y|1530|2000.00|2000.00|1530|2000.00|200.0000|0.00|200.0000|4||Y|Y|KFFLEX-D
+KFFLEX2RMF|KSAM|กองทุนเปิดกรุงศรีเฟล็กซิเบิ้ล 2 เพื่อการเลี้ยงชีพ|Krungsri Flexible 2 RMF|M|RMF|N|N|20021016|5|N|Y|1530|2000.00|2000.00|1530|0.00|0.0000|0.00|0.0000|4||Y|Y|KFFLEX2RMF
+KFGBRANRMF|KSAM|กองทุนเปิดกรุงศรีโกลบอลแบรนด์อิควิตี้เพื่อการเลี้ยงชีพ|Krungsri Global Brands Equity RMF|E|RMF|N|N|20161123|6|Y|N|1530|2000.00|2000.00|1530|0.00|0.0000|0.00|0.0000|3||Y|Y|KFGBRANRMF
+KFGOLDRMF|KSAM|กองทุนเปิดกรุงศรีโกลด์เพื่อการเลี้ยงชีพ|Krungsri Gold RMF|E|RMF|N|N|20090827|8|Y|N|1530|2000.00|2000.00|1300|0.00|0.0000|0.00|0.0000|3||Y|Y|KFGOLDRMF
+KFGOVRMF|KSAM|กองทุนเปิดกรุงศรีพันธบัตรเพื่อการเลี้ยงชีพ|Krungsri Government Bond RMF|F|RMF|N|N|20020917|4|N|Y|1530|2000.00|2000.00|1530|0.00|0.0000|0.00|0.0000|2||Y|Y|KFGOVRMF
+KFGTECHRMF|KSAM|กองทุนเปิดกรุงศรีโกลบอลเทคโนโลยีอิควิตี้เพื่อการเลี้ยงชีพ|Krungsri Global Technology Equity RMF|E|RMF|N|N||7|Y|N|1530|2000.00|2000.00|1530|0.00|0.0000|0.00|0.0000|3||Y|Y|
+KFHAPPY|KSAM|กองทุนเปิดกรุงศรีชีวิตดี๊ดี|Krungsri Happy Life Fund|M||N|N|20170727|5|N|N|1530|1000.00|1000.00|1530|1000.00|100.0000|0.00|100.0000|4||Y|Y|KFHAPPY
+KFHAPPYRMF|KSAM|กองทุนเปิดกรุงศรีชีวิตดี๊ดีเพื่อการเลี้ยงชีพ|Krungsri Happy Life RMF|M|RMF|N|N||5|N|N|1530|2000.00|2000.00|1430|0.00|0.0000|0.00|0.0000|4||Y|Y|
+KFHCARERMF|KSAM|กองทุนเปิดกรุงศรีโกลบอลเฮลธ์แคร์อิควิตี้เพื่อการเลี้ยงชีพ|Krungsri Global Healthcare Equity RMF|E|RMF|N|N|20141128|7|Y|N|1530|2000.00|2000.00|1430|0.00|0.0000|0.00|0.0000|3||Y|Y|KFHCARERMF
+KFJAPANRMF|KSAM|กองทุนเปิดกรุงศรีเจแปนเพื่อการเลี้ยงชีพ|Krungsri Japan RMF|M|RMF|N|N|20151127|5|Y|N|1530|2000.00|2000.00|1530|0.00|0.0000|0.00|0.0000|4||Y|Y|KFJAPANRMF
+KFLS20PLUS|KSAM|กองทุนเปิดกรุงศรีไลฟ์สเตจ 20 พลัส|Krungsri Life Stage 20 Plus Fund|M||N|N|20120924|5|Y|N|1530|2000.00|2000.00|1530|2000.00|200.0000|0.00|200.0000|4||Y|Y|KFLS20PLUS
+KFLS30PLUS|KSAM|กองทุนเปิดกรุงศรีไลฟ์สเตจ 30 พลัส|Krungsri Life Stage 30 Plus Fund|M||N|N|20120924|5|Y|N|1530|2000.00|2000.00|1530|2000.00|200.0000|0.00|200.0000|4||Y|Y|KFLS30PLUS
+KFLTF50|KSAM|กองทุนเปิดกรุงศรีหุ้นระยะยาว SET50|Krungsri SET50 LTF|E|LTF|N|N|20041117|6|N|Y|1530|2000.00|2000.00|1530|0.00|0.0000|0.00|0.0000|4||Y|Y|KFLTF50
+KFLTFA50-D|KSAM|กองทุนเปิดกรุงศรีหุ้นระยะยาวแอ็คทีฟ SET50 ปันผล|Krungsri Active SET50 Dividend LTF|E|LTF|N|Y|20041101|6|N|Y|1530|2000.00|2000.00|1530|0.00|0.0000|0.00|0.0000|4||Y|Y|KFLTFA50-D
+KFLTFAST-D|KSAM|กองทุนเปิดกรุงศรีหุ้นระยะยาวออลสตาร์ปันผล|Krungsri All Stars Dividend LTF|E|LTF|N|Y|20161123|6|Y|N|1530|2000.00|2000.00|1530|0.00|0.0000|0.00|0.0000|4||Y|Y|KFLTFAST-D
+KFLTFD70|KSAM|กองทุนเปิดกรุงศรีหุ้นระยะยาวปันผล 70/30|Krungsri Dividend Stock LTF 70/30|E|LTF|N|Y|20070622|6|N|Y|1530|2000.00|2000.00|1530|0.00|0.0000|0.00|0.0000|4||Y|Y|KFLTFD70
+KFLTFDIV|KSAM|กองทุนเปิดกรุงศรีหุ้นระยะยาวปันผล|Krungsri Dividend Stock LTF|E|LTF|N|Y|20041117|6|N|Y|1530|2000.00|2000.00|1530|0.00|0.0000|0.00|0.0000|4||Y|Y|KFLTFDIV
+KFLTFEQ|KSAM|กองทุนเปิดกรุงศรีหุ้นระยะยาวอิควิตี้|Krungsri Equity LTF|E|LTF|N|N|20060712|6|N|Y|1530|2000.00|2000.00|1530|0.00|0.0000|0.00|0.0000|4||Y|Y|KFLTFEQ
+KFLTFEQ70D|KSAM|กองทุนเปิดกรุงศรีหุ้นระยะยาวอิควิตี้ 70 ปันผล|Krungsri Equity Dividend 70/30 LTF|E|LTF|N|Y|20061130|6|N|Y|1530|2000.00|2000.00|1530|0.00|0.0000|0.00|0.0000|4||Y|Y|KFLTFEQ70D
+KFLTFSTARD|KSAM|กองทุนเปิดกรุงศรีหุ้นระยะยาวไทยออลสตาร์ปันผล|Krungsri Thai All Stars Dividend LTF|E|LTF|N|Y||6|N|Y|1530|2000.00|2000.00|1530|0.00|0.0000|0.00|0.0000|4||Y|Y|
+KFLTFTSM-D|KSAM|กองทุนเปิดกรุงศรีหุ้นระยะยาวไทยสมอล-มิดแคปปันผล|Krungsri Thai Small-Mid Cap Dividend LTF|E|LTF|N|Y|20161123|6|N|Y|1530|2000.00|2000.00|1530|0.00|0.0000|0.00|0.0000|4||Y|Y|KFLTFTSM-D
+KFLTGOVRMF|KSAM|กองทุนเปิดกรุงศรีพันธบัตรระยะยาวเพื่อการเลี้ยงชีพ|Krungsri Long Term Government Bond RMF|F|RMF|N|N|20021016|4|N|Y|1530|2000.00|2000.00|1530|0.00|0.0000|0.00|0.0000|2||Y|Y|KFLTGOVRMF
+KFMONEY|KSAM|กองทุนเปิดกรุงศรีมันนี่|Krungsri Money Fund|F||N|N|20060727|2|N|Y|1530|2000.00|2000.00|1530|2000.00|200.0000|0.00|0.0000|1||Y|Y|KFMONEY
+KFMTFI|KSAM|กองทุนเปิดกรุงศรีตราสารหนี้ระยะกลาง|Krungsri Medium Term Fixed Income Fund|F||N|N|20031120|4|N|Y|1530|1000.00|1000.00|1530|1000.00|100.0000|0.00|100.0000|2||Y|Y|KFMTFI
+KFMTFI-D|KSAM|กองทุนเปิดกรุงศรีตราสารหนี้ระยะกลางปันผล|Krungsri Medium Term Fixed Income Dividend Fund|F||N|Y|19990126|4|N|Y|1530|2000.00|2000.00|1530|2000.00|200.0000|0.00|200.0000|2||Y|Y|KFMTFI-D
+KFMTFIRMF|KSAM|กองทุนเปิดกรุงศรีตราสารหนี้ระยะกลางเพื่อการเลี้ยงชีพ|Krungsri Medium Term Fixed Income RMF|F|RMF|N|N|20021016|4|N|Y|1530|2000.00|2000.00|1530|0.00|0.0000|0.00|0.0000|2||Y|Y|KFMTFIRMF
+KFS100RMF|KSAM|กองทุนเปิดกรุงศรี SET100 เพื่อการเลี้ยงชีพ|Krungsri SET100 RMF|E|RMF|N|N|20050712|6|N|Y|1530|2000.00|2000.00|1530|0.00|0.0000|0.00|0.0000|4||Y|Y|KFS100RMF
+KFSDIV|KSAM|กองทุนเปิดกรุงศรีหุ้นปันผล|Krungsri Dividend Stock Fund|E||N|Y|20070323|6|N|Y|1530|2000.00|2000.00|1530|2000.00|200.0000|0.00|200.0000|4||Y|Y|KFSDIV
+KFSEQ|KSAM|กองทุนเปิดกรุงศรีอิควิตี้|Krungsri Star Equity Fund|E||N|N|20040123|6|N|Y|1530|2000.00|2000.00|1530|2000.00|200.0000|0.00|200.0000|4||Y|Y|KFSEQ
+KFSEQ-D|KSAM|กองทุนเปิดกรุงศรีอิควิตี้ปันผล|Krungsri Star Equity Dividend Fund|E||N|Y|19970722|6|N|Y|1530|2000.00|2000.00|1530|2000.00|200.0000|0.00|200.0000|4||Y|Y|KFSEQ-D
+KFSINCRMF|KSAM|กองทุนเปิดกรุงศรีโกลบอลสมาร์ทอินคัมเพื่อการเลี้ยงชีพ|Krungsri Global Smart Income RMF|M|RMF|N|N|20161123|4|N|N|1530|2000.00|2000.00|1530|0.00|0.0000|0.00|0.0000|2||Y|Y|KFSINCRMF
+KFSMART|KSAM|กองทุนเปิดกรุงศรีสมาร์ทตราสารหนี้|Krungsri Smart Fixed Income Fund|F||N|N|20160518|4|N|Y|1530|1000.00|1000.00|1530|1000.00|100.0000|0.00|0.0000|1||Y|Y|KFSMART
+KFSMUL|KSAM|กองทุนเปิดกรุงศรีตราสารเจริญทรัพย์|Krungsri Star Multiple Fund|M||N|N|19990211|4|N|Y|1530|2000.00|2000.00|1530|2000.00|200.0000|0.00|200.0000|2||Y|Y|KFSMUL
+KFSPLUS|KSAM|กองทุนเปิดกรุงศรีตราสารเพิ่มทรัพย์|Krungsri Star Plus Fund|F||N|N|19971219|4|N|Y|1530|1000.00|1000.00|1530|1000.00|100.0000|0.00|0.0000|1||Y|Y|KFSPLUS
+KFSTARRMF|KSAM|กองทุนเปิดกรุงศรีไทยออลสตาร์เพื่อการเลี้ยงชีพ|Krungsri Thai All Stars Equity RMF|E|RMF|N|N||6|N|Y|1530|2000.00|2000.00|1530|0.00|0.0000|0.00|0.0000|4||Y|Y|
+KFTHAICG|KSAM|กองทุนเปิดกรุงศรีหุ้นธรรมาภิบาลไทย|Krungsri Thai Equity CG Fund|E||N|N|20170831|6|N|Y|1530|2000.00|2000.00|1530|2000.00|200.0000|0.00|200.0000|4||Y|Y|KFTHAICG
+KFTHAISM|KSAM|กองทุนเปิดกรุงศรีไทยสมอล-มิดแคปอิควิตี้|Krungsri Thai Small-Mid Cap Equity Fund|E||N|N|20160226|6|N|Y|1530|2000.00|2000.00|1530|2000.00|200.0000|0.00|200.0000|4||Y|Y|KFTHAISM
+KFTSRMF|KSAM|กองทุนเปิดกรุงศรีทวีทรัพย์เพื่อการเลี้ยงชีพ|Krungsri Taweesap RMF|M|RMF|N|N|20020917|5|N|Y|1530|2000.00|2000.00|1530|0.00|0.0000|0.00|0.0000|4||Y|Y|KFTSRMF
+KFTSTAR-A|KSAM|กองทุนเปิดกรุงศรีไทยออลสตาร์-สะสมมูลค่า|Krungsri Thai All Stars Equity Fund-A|E||N|Y|20170320|6|N|Y|1530|1000.00|1000.00|1530|1000.00|100.0000|0.00|100.0000|4||Y|Y|KFTSTAR
+KFTSTAR-D|KSAM|กองทุนเปิดกรุงศรีไทยออลสตาร์ปันผล|Krungsri Thai All Stars Equity Dividend Fund|E||N|Y|20170320|6|N|Y|1530|1000.00|1000.00|1530|1000.00|100.0000|0.00|100.0000|4||Y|Y|KFTSTAR
+KFTW5|KSAM|กองทุนเปิดกรุงศรีทุนทวี 5|Krungsri Tuntawee Fund 5|E||N|Y|20030930|6|N|Y|1530|2000.00|2000.00|1530|2000.00|200.0000|0.00|200.0000|4||Y|Y|KFTW5
+KFVALUE|KSAM|กองทุนเปิดกรุงศรีหุ้นแวลู|Krungsri Value Stock Fund|E||N|N|20040331|6|N|Y|1530|1000.00|1000.00|1530|1000.00|100.0000|0.00|100.0000|4||Y|Y|KFVALUE
+KKF|UOBAM|กองทุนเปิด เกียรตินาคิน|KIATNAKIN  FUND|E||N|Y|19940706|6|N|N|1530|5000.00|1000.00|1530|0.01|500.0000|0.00|0.0000|4||Y|N|KKF
+KPLUS|UOBAM|กองทุนเปิด กำไรเพิ่มพูน|Kamrai Permpoon Open-ended Fund|E||N|Y|19931229|6|N|N|1530|5000.00|1000.00|1530|0.01|500.0000|0.00|0.0000|4||N|N|KPLUS
+KPLUS2|UOBAM|กองทุนเปิด กำไรเพิ่มพูน 2|Kamrai Permpoon Open-ended Fund 2|E||N|Y|19931229|6|N|N|1530|5000.00|1000.00|1530|0.01|100.0000|0.00|0.0000|4||N|N|KPLUS2
+KSET50LTF|KTAM|กองทุนเปิดกรุงไทยหุ้นระยะยาว SET50|The Krung  Thai SET50 Long-Term Equity Fund|E|LTF|N|N|20070628|6|N|N|1530|500.00|500.00|1530|500.00||||4||Y|Y|KSET50LTF
+KSLTF|KTAM|กองทุนเปิดกรุงไทยชาริอะฮ์หุ้นระยะยาว|The Krung Thai Shariah Long-Term Equity Fund|E|LTF|N|N|20061227|6|N|N|1530|500.00|500.00|1530|500.00||||4||Y|Y|KSLTF
+KSRMF|KTAM|กองทุนเปิดกรุงไทยชาริอะฮ์เพื่อการเลี้ยงชีพ|The Krung  Thai Shariah Retirement Mutual Fund|E|RMF|N|N|20061227|6|N|N|1530|500.00|500.00|1530|500.00||||4||N|N|KSRMF
+KT-AASIA-A|KTAM|กองทุนเปิดเคแทม ออล เอเชีย แปซิฟิก อิควิตี้ ฟันด์|KTAM All Asia Pacific Equity Fund|E||N|Y|20150723|6|Y|N|1400|1000.00|1000.00|1400|||||5||Y|Y|KT-AASIA
+KT-AGRI|KTAM|กองทุนเปิดเคแทม เวิลด์ อะกริคัลเจอร์ ฟันด์|KTAM World Agriculture Fund|E||Y|N|20110527|7|Y|N|1400|1000.00|1000.00|1400|||||5||Y|Y|KT-AGRI
+KT-ASEAN-A|KTAM|กองทุนเปิดเคแทม อาเซียน อิควิตี้ ฟันด์|KTAM ASEAN Equity Fund|E||N|Y|20150331|6|Y|N|1530|1000.00|1000.00|1530|||||5||Y|Y|KT-ASEAN
+KT-BOND|KTAM|กองทุนเปิดเคแทม เวิลด์ บอนด์ ฟันด์|KTAM World Bond Fund|O||N|N|20111031|4|Y|N|1530|1000.00|1000.00|1530|||||5||Y|Y|KT-BOND
+KT-BOND RMF|KTAM|กองทุนเปิดเคแทม เวิลด์ บอนด์ เพื่อการเลี้ยงชีพ|KTAM World Bond RMF|O|RMF|N|N|20121227|4|Y|N|1530|500.00|500.00|1530|500.00|50.0000|||5||N|N|KT-BOND RMF
+KT-ENERGY|KTAM|กองทุนเปิดเคแทม เวิลด์ เอ็นเนอร์จี ฟันด์|Ktam World Energy Fund|E||Y|N|20090703|7|Y|N|1400|1000.00|1000.00|1400|||||5||Y|Y|KT-ENERGY
+KT-EURO|KTAM|กองทุนเปิดเคแทม ยูโรเปียน อิควิตี้ ฟันด์|KTAM European Equity Fund|E||N|N|20140304|6|Y|N|1400|1000.00|1000.00|1400|||||5||Y|Y|KT-EURO
+KT-FINANCE|KTAM|กองทุนเปิดเคแทม เวิลด์ ไฟแนนเชียล เซอร์วิส ฟันด์|KTAM World Financial Services Fund|E||Y|N|20091029|7|Y|N|1400|1000.00|1000.00|1400|||||6||Y|Y|KT-FINANCE
+KT-FLEX|KTAM|กองทุนเปิดกรุงไทย เฟล็กซิเบิ้ล ฟันด์|Krung Thai Flexible Fund|M||N|N|20130926|5|N|N|1530|1000.00|1000.00|1530|||||4||Y|Y|KT-FLEX
+KT-GMO-A|KTAM|กองทุนเปิดเคแทม โกลบอล แม็คโคร ออพเพอทูนิตี้ ฟันด์ - Class A|KTAM Global Macro Opportunities Fund - Class A|M||N|Y|20160404|5|Y|N|1530|550000.00|1000.00|1530|||||5||Y|Y|KT-GMO
+KT-GOLD|KTAM|กองทุนเปิดเคแทม โกลด์ ฟันด์|KTAM Gold Fund|E||Y|N|20100909|8|Y|N|1400|0.00|0.00|1400|||||3||Y|Y|KT-GOLD
+KT-GOLD RMF|KTAM|กองทุนเปิดเคแทม โกลด์ เพื่อการเลี้ยงชีพ|KTAM Gold RMF|E|RMF|Y|N|20101007|8|Y|N|1400|500.00|500.00|1400|500.00|50.0000|||3||N|N|KT-GOLD RMF
+KT-HEALTHC RMF|KTAM|กองทุนเปิดเคแทม เวิลด์ เฮลธ์แคร์ เพื่อการเลี้ยงชีพ|KTAM World Healthcare RMF|E|RMF|N|N|20151127|7|Y|N|1400|500.00|500.00|1400|500.00|50.0000|||5||N|N|KT-HEALTHC RMF
+KT-HEALTHCARE-A|KTAM|กองทุนเปิดเคแทม เวิลด์ เฮลธ์แคร์ ฟันด์|KTAM World Healthcare Fund|E||N|Y|20151127|7|Y|N|1400|1000.00|1000.00|1400|||||5||Y|Y|KT-HEALTHCARE
+KT-HiDiv|KTAM|กองทุนเปิดกรุงไทย หุ้นไฮดิวิเดนด์|Krung Thai High Dividend Equity Fund|E||N|Y|20131031|6|N|N|1530|1000.00|1000.00|1530|||||4||Y|Y|KT-HiDiv
+KT-HiDiv RMF|KTAM|กองทุนเปิดกรุงไทย หุ้นไฮดิวิเดนด์ เพื่อการเลี้ยงชีพ|Krung Thai High Dividend Equity RMF|E|RMF|N|N|20131128|6|N|N|1530|500.00|500.00|1530|500.00|50.0000|||4||N|N|KT-HiDiv RMF
+KT-IGF-R|KTAM|กองทุนเปิดเคแทม อินคัม แอนด์ โกรท ฟันด์|KTAM Income and Growth Fund|M||N|Y|20140929|5|Y|N|1400|550000.00|1000.00|1400|||||5||Y|Y|KT-IGF
+KT-INDIA-A|KTAM|กองทุนเปิดเคแทม อินเดีย อิควิตี้ ฟันด์|KTAM India Equity Fund|E||N|Y|20160209|6|Y|N|1400|1000.00|1000.00|1400|||||5||Y|Y|KT-INDIA
+KT-INDIA-D|KTAM|กองทุนเปิดเคแทม อินเดีย อิควิตี้ ฟันด์|KTAM India Equity Fund|E||N|Y|20160209|6|Y|N|1400|1000.00|1000.00|1400|||||5||Y|Y|KT-INDIA
+KT-JAPAN-A|KTAM|กองทุนเปิดเคแทม เจแปน อิควิตี้ ฟันด์|KTAM Japan Equity Fund|E||N|Y|20160531|6|Y|N|1400|1000.00|1000.00|1400|||||5||Y|Y|KT-JAPAN
+KT-JAPAN-D|KTAM|กองทุนเปิดเคแทม เจแปน อิควิตี้ ฟันด์|KTAM Japan Equity Fund|E||N|Y|20160531|6|Y|N|1400|1000.00|1000.00|1400|||||5||Y|Y|KT-JAPAN
+KT-mai|KTAM|กองทุนเปิดกรุงไทยหุ้น เอ็ม เอ ไอ|Krung Thai mai Equity Fund|E||N|N|20150708|6|N|N|1530|1000.00|1000.00|1530|||||4||Y|Y|KT-mai
+KT-MINING|KTAM|กองทุนเปิดเคแทม เวิลด์ เมทัล แอนด์ ไมน์นิ่ง ฟันด์|KTAM World Metals and Mining Fund|E||Y|N|20100514|7|Y|N|1400|1000.00|1000.00|1400|||||5||Y|Y|KT-MINING
+KT-OIL|KTAM|กองทุนเปิดเคแทม ออยล์ ฟันด์|KTAM Oil Fund|O||Y|N|20100429|8|Y|N|1530|1000.00|1000.00|1530|||||4||Y|Y|KT-OIL
+KT-OPP-A|KTAM|กองทุนเปิดกรุงไทย ออพเพอทูนิตี้|KrungThai Opportunities Fund|M||N|Y|20131225|5|N|N|1530|50000.00|50000.00|1530|||||4||N|N|KT-OPP
+KT-OPP-D|KTAM|กองทุนเปิดกรุงไทย ออพเพอทูนิตี้|KrungThai Opportunities Fund|M||N|Y|20131225|5|N|N|1530|50000.00|50000.00|1530|||||4||N|N|KT-OPP
+KT-PIF RMF|KTAM|กองทุนเปิดกรุงไทย พร็อพเพอร์ตี้ แอนด์ อินฟราสตรัคเจอร์ เฟล็กซิเบิ้ล เพื่อการเลี้ยงชีพ|Krung Thai Property and Infrastructure Flexible RMF|M|RMF|N|N|20161124|5|N|N|1530|500.00|500.00|1530|500.00|50.0000|||5||N|N|
+KT-PIF-A|KTAM|กองทุนเปิดกรุงไทย พร็อพเพอร์ตี้ แอนด์ อินฟราสตรัคเจอร์ เฟล็กซิเบิ้ล - Class A|Krung Thai Property and Infrastructure Flexible Fund - Class A|M||N|Y|20160729|5|N|N|1530|1000.00|1000.00|1530|||||5||Y|Y|KT-PIF
+KT-PIF-D|KTAM|กองทุนเปิดกรุงไทย พร็อพเพอร์ตี้ แอนด์ อินฟราสตรัคเจอร์ เฟล็กซิเบิ้ล - Class D|Krung Thai Property and Infrastructure Flexible Fund - Class D|M||N|Y|20160729|5|N|N|1530|1000.00|1000.00|1530|||||5||Y|Y|KT-PIF
+KT-PRECIOUS|KTAM|กองทุนเปิดเคแทม เวิลด์ โกลด์ แอนด์ เพรเชียส เอคควิตี้|KTAM World Gold and Precious Equity Fund|E||Y|N|20101119|7|Y|N|1400|1000.00|1000.00|1400|||||5||Y|Y|KT-PRECIOUS
+KT-PROPERTY|KTAM|กองทุนเปิดเคแทม เวิลด์ พร็อพเพอร์ตี้ ฟันด์|KTAM World Property Fund|O||Y|Y|20110923|8|Y|N|1530|1000.00|1000.00|1530|||||5||Y|Y|KT-PROPERTY
+KT-PROPERTY RMF|KTAM|กองทุนเปิดเคแทม เวิลด์ พร็อพเพอร์ตี้ เพื่อการเลี้ยงชีพ|KTAM World Property RMF|O|RMF|N|N|20121129|8|Y|N|1530|500.00|500.00|1530|500.00|50.0000|||5||N|N|KT-PROPERTY RMF
+KT-ST|KTAM|กองทุนเปิดกรุงไทยตราสารหนี้ระยะสั้น|Krung Thai Short Term Fund|F||N|N|20110921|4|N|N|1530|10000.00|10000.00|1530|||||1||Y|Y|KT-ST
+KT-US-A|KTAM|กองทุนเปิดเคแทม ยูเอส โกรท อิควิตี้ ฟันด์|KTAM US Growth Equity Fund|E||N|Y|20150303|6|Y|N|1530|1000.00|1000.00|1530|||||5||Y|Y|KT-US
+KT-WCORP|KTAM|กองทุนเปิดเคแทม เวิลด์ คอปเปอร์เรท บอนด์ ฟันด์|KTAM World Corporate Bond Fund|F||N|N|20130404|4|Y|N|1400|1000.00|1000.00|1400|||||5||Y|Y|KT-WCORP
+KT-WEQ|KTAM|กองทุนเปิดเคแทม เวิลด์ อิควิตี้ ฟันด์|KTAM World  Equity Fund|E||N|N|20141009|6|Y|N|1400|1000.00|1000.00|1400|||||5||Y|Y|KT-WEQ
+KT-WEQ RMF|KTAM|กองทุนเปิดเคแทม เวิลด์ อิควิตี้ เพื่อการเลี้ยงชีพ|KTAM World  Equity RMF|E|RMF|N|N|20141127|6|Y|N|1400|500.00|500.00|1400|500.00|50.0000|||5||N|N|KT-WEQ RMF
+KT25/75RMF|KTAM|กองทุนเปิดกรุงไทย คอนเซอเวทีฟ 25/75 เพื่อการเลี้ยงชีพ|Krung Thai Conservative 25/75 RMF|M|RMF|N|N|20141223|5|N|N|1530|500.00|500.00|1530|500.00|50.0000|||4||N|N|KT25/75RMF
+KTEF|KTAM|กองทุนเปิดกรุงไทย สมาร์ท อิควิตี้ ฟันด์|Krung Thai Smart  Equity Fund|E||N|N|20110519|6|N|N|1530|1000.00|1000.00|1530|||||4||Y|Y|KTEF
+KTEF-LTF|KTAM|กองทุนเปิดกรุงไทย สมาร์ท หุ้นระยะยาว|Krung Thai Smart  Long-Term Equity Fund|E|LTF|N|N|20161124|6|N|N|1530|500.00|500.00|1530|500.00||||4||Y|Y|
+KTFF132|KTAM|กองทุนเปิดกรุงไทยตราสารหนี้ เอฟไอเอฟ 132|Krung Thai Fixed Income FIF 132|F||N|N|20170301|4|Y|N|1530|10000.00|10000.00|1530|||||1||Y|Y|KTFF132
+KTFF135|KTAM|กองทุนเปิดกรุงไทยตราสารหนี้ เอฟไอเอฟ 135|Krung Thai Fixed Income FIF 135|F||N|N|20170315|4|Y|N|1530|10000.00|10000.00|1530|||||1||Y|Y|KTFF135
+KTFF138|KTAM|กองทุนเปิดกรุงไทยตราสารหนี้ เอฟไอเอฟ 138|Krung Thai Fixed Income FIF 138|F||N|N|20170329|4|Y|N|1530|10000.00|10000.00|1530|||||1||Y|Y|KTFF138
+KTFF142|KTAM|กองทุนเปิดกรุงไทยตราสารหนี้ เอฟไอเอฟ 142|Krung Thai Fixed Income FIF 142|F||N|N|20170419|4|Y|N|1530|10000.00|10000.00|1530|||||1||Y|Y|KTFF142
+KTFF144|KTAM|กองทุนเปิดกรุงไทยตราสารหนี้ เอฟไอเอฟ 144|Krung Thai Fixed Income FIF 144|F||N|N|20170426|4|Y|N|1530|10000.00|10000.00|1530|||||1||Y|Y|KTFF144
+KTFF148|KTAM|กองทุนเปิดกรุงไทยตราสารหนี้ เอฟไอเอฟ 148|Krung Thai Fixed Income FIF 148|F||N|N|20170524|4|Y|N|1530|10000.00|10000.00|1530|||||1||Y|Y|KTFF148
+KTFF152|KTAM|กองทุนเปิดกรุงไทยตราสารหนี้ เอฟไอเอฟ 152|Krung Thai Fixed Income FIF 152|F||N|N|20170614|4|Y|N|1530|10000.00|10000.00|1530|||||1||Y|Y|KTFF152
+KTFF153|KTAM|กองทุนเปิดกรุงไทยตราสารหนี้ เอฟไอเอฟ 153|Krung Thai Fixed Income FIF 153|F||N|N|20170621|4|Y|N|1530|10000.00|10000.00|1530|||||1||Y|Y|KTFF153
+KTFF155|KTAM|กองทุนเปิดกรุงไทยตราสารหนี้ เอฟไอเอฟ 155|Krung Thai Fixed Income FIF 155|F||N|N|20170628|4|Y|N|1530|10000.00|10000.00|1530|||||1||Y|Y|KTFF155
+KTFF156|KTAM|กองทุนเปิดกรุงไทยตราสารหนี้ เอฟไอเอฟ 156|Krung Thai Fixed Income FIF 156|F||N|N|20170705|4|Y|N|1530|10000.00|10000.00|1530|||||1||Y|Y|KTFF156
+KTFF158|KTAM|กองทุนเปิดกรุงไทยตราสารหนี้ เอฟไอเอฟ 158|Krung Thai Fixed Income FIF 158|F||N|N|20170719|4|Y|N|1530|10000.00|10000.00|1530|||||1||Y|Y|KTFF158
+KTFF159|KTAM|กองทุนเปิดกรุงไทยตราสารหนี้ เอฟไอเอฟ 159|Krung Thai Fixed Income FIF 159|F||N|N|20170719|4|Y|N|1530|10000.00|10000.00|1530|||||1||Y|Y|KTFF159
+KTFF160|KTAM|กองทุนเปิดกรุงไทยตราสารหนี้ เอฟไอเอฟ 160|Krung Thai Fixed Income FIF 160|F||N|N|20170726|4|Y|N|1530|10000.00|10000.00|1530|||||1||Y|Y|KTFF160
+KTFF161|KTAM|กองทุนเปิดกรุงไทยตราสารหนี้ เอฟไอเอฟ 161|Krung Thai Fixed Income FIF 161|F||N|N|20170802|4|Y|N|1530|10000.00|10000.00|1530|||||1||Y|Y|KTFF161
+KTFF162|KTAM|กองทุนเปิดกรุงไทยตราสารหนี้ เอฟไอเอฟ 162|Krung Thai Fixed Income FIF 162|F||N|N|20170809|4|Y|N|1530|10000.00|10000.00|1530|||||1||Y|Y|KTFF162
+KTFF163|KTAM|กองทุนเปิดกรุงไทยตราสารหนี้ เอฟไอเอฟ 163|Krung Thai Fixed Income FIF 163|F||N|N|20170809|4|Y|N|1530|10000.00|10000.00|1530|||||1||Y|Y|KTFF163
+KTFF164|KTAM|กองทุนเปิดกรุงไทยตราสารหนี้ เอฟไอเอฟ 164|Krung Thai Fixed Income FIF 164|F||N|N|20170816|4|Y|N|1530|10000.00|10000.00|1530|||||1||Y|Y|KTFF164
+KTFF165|KTAM|กองทุนเปิดกรุงไทยตราสารหนี้ เอฟไอเอฟ 165|Krung Thai Fixed Income FIF 165|F||N|N|20170823|4|Y|N|1530|10000.00|10000.00|1530|||||1||Y|Y|KTFF165
+KTFF166|KTAM|กองทุนเปิดกรุงไทยตราสารหนี้ เอฟไอเอฟ 166|Krung Thai Fixed Income FIF 166|F||N|N|20170830|4|Y|N|1530|10000.00|10000.00|1530|||||1||Y|Y|KTFF166
+KTFF167|KTAM|กองทุนเปิดกรุงไทยตราสารหนี้ เอฟไอเอฟ 167|Krung Thai Fixed Income FIF 167|F||N|N|20170809|4|Y|N|1530|10000.00|10000.00|1530|||||1||Y|Y|KTFF167
+KTFF168|KTAM|กองทุนเปิดกรุงไทยตราสารหนี้ เอฟไอเอฟ 168|Krung Thai Fixed Income FIF 168|F||N|N|20170906|4|Y|N|1530|10000.00|10000.00|1530|||||1||Y|Y|
+KTFF179|KTAM|กองทุนเปิดกรุงไทยตราสารหนี้ เอฟไอเอฟ 179|Krung Thai Fixed Income FIF 179|F||N|N|20171220|4|Y|Y|1530|10000.00|10000.00|1530|||||1||Y|Y|KTFF179
+KTFF37|KTAM|กองทุนเปิดกรุงไทยตราสารหนี้ เอฟไอเอฟ 37|Krung Thai Fixed Income FIF 37|F||Y|N|20131017|4|Y|N|1530|10000.00|10000.00|1530|||||1||Y|Y|
+KTFIX-1Y3Y|KTAM|กองทุนเปิดกรุงไทยตราสารหนี้ระยะ 1 ถึง 3 ปี|Krung Thai 1Y-3Y Fixed Income Fund|F||N|N|20140108|4|N|N|1530|0.00|0.00|1530|||||1||Y|Y|KTFIX-1Y3Y
+KTFIX3M1|KTAM|กองทุนเปิดกรุงไทยประจำ 3 เดือนมุ่งรักษาเงินต้น1|The Krung Thai Capital Protection Fixed 3M Fund1|F||N|N|20081001|4|N|N|1530|0.00|0.00|1530|||||1||N|N|KTFIX3M1
+KTFIX3M2|KTAM|กองทุนเปิดกรุงไทยประจำ 3 เดือนมุ่งรักษาเงินต้น2|The Krung Thai Capital Protection Fixed 3M Fund2|F||N|N|20081105|4|N|N|1530|0.00|0.00|1530|||||1||N|N|KTFIX3M2
+KTFIX3M3|KTAM|กองทุนเปิดกรุงไทยประจำ 3 เดือนมุ่งรักษาเงินต้น3|The Krung Thai Capital Protection Fixed 3M Fund3|F||N|N|20081211|4|N|N|1530|0.00|0.00|1530|||||1||N|N|KTFIX3M3
+KTFIXPLUS-A|KTAM|กองทุนเปิดกรุงไทยตราสารหนี้ พลัส|Krung Thai Fixed-Income Plus Fund|F||N|Y|20001204|4|N|N|1530|1000.00|1000.00|1530|||||2||Y|Y|KTFIXPLUS
+KTFIXPLUS-D|KTAM|กองทุนเปิดกรุงไทยตราสารหนี้ พลัส|Krung Thai Fixed-Income Plus Fund|F||N|Y|20001204|4|N|N|1530|1000.00|1000.00|1530|||||2||Y|Y|KTFIXPLUS
+KTFIXPLUS-I|KTAM|กองทุนเปิดกรุงไทยตราสารหนี้ พลัส|Krung Thai Fixed-Income Plus Fund|F||N|Y|20001204|4|N|N|1530|20000000.00|1000.00|1530|||||2||Y|Y|KTFIXPLUS
+KTILB|KTAM|กองทุนเปิดกรุงไทยพันธบัตรรัฐบาลชดเชยเงินเฟ้อ|Krung Thai Inflation Linked Bond Fund|F||N|N|20110719|3|N|N|1530|10000.00|10000.00|1530|||||1||N|N|KTILB
+KTILF|KTAM|กองทุนเปิดกรุงไทยอ้างอิงเงินเฟ้อ|Krung Thai Inflation Linked Fund|F||N|Y|20130320|4|N|N|1530|0.00|0.00|1530|||||3||Y|Y|KTILF
+KTLF|KTAM|กองทุนเปิดกรุงไทยหุ้นระยะยาว|The Krung Thai Long -Term Equity Fund|E|LTF|N|Y|20041115|6|N|N|1530|500.00|500.00|1530|500.00||||4||Y|Y|KTLF
+KTLF70/30|KTAM|กองทุนเปิดกรุงไทยหุ้นระยะยาว70/30|The Krung  Thai Long-Term Equity Fund70/30|E|LTF|N|N|20070202|6|N|N|1530|500.00|500.00|1530|500.00||||4||Y|Y|KTLF70/30
+KTMSEQ|KTAM|กองทุนเปิดกรุงไทยหุ้น Mid-Small Cap|Krung Thai Mid-Small Cap Equity Fund|E||N|N|20150430|6|N|N|1530|1000.00|1000.00|1530|||||4||Y|Y|KTMSEQ
+KTOIL5-1|KTAM|กองทุนเปิดเคแทม ออยล์ ทริกเกอร์ ฟันด์5%|KTAM OIL Trigger Fund5%|O||N|N|20151109|8|Y|N|1530|1000.00|1000.00|1530|||||4||N|N|KTOIL5-1
+KTPLUS|KTAM|กองทุนเปิดกรุงไทย ธนทรัพย์ พลัส|Krung Thai Thanasup Plus Fund|F||N|N|20130725|4|N|N|1530|0.00|0.00|1530|||||1||Y|Y|KTPLUS
+KTSE|KTAM|กองทุนเปิดกรุงไทย ซีเล็คทีฟ อิควิตี้ ฟันด์|Krung Thai Selective Equity Fund|E||N|Y|20031022|6|N|N|1530|1000.00|1000.00|1530|||||4||Y|Y|KTSE
+KTSE-LTF|KTAM|กองทุนเปิดกรุงไทย ซีเล็คทีฟ หุ้นระยะยาว|Krung Thai Selective Long-Term Equity Fund|E|LTF|N|Y|20161222|6|N|N|1530|500.00|500.00|1530|500.00||||4||Y|Y|
+KTSE-RMF|KTAM|กองทุนเปิดกรุงไทย ซีเล็คทีฟ อิควิตี้ เพื่อการเลี้ยงชีพ|Krung Thai Selective Equity RMF|E|RMF|N|N|20121002|6|N|N|1530|500.00|500.00|1530|500.00|50.0000|||4||N|N|KTSE-RMF
+KTSET50RMF|KTAM|กองทุนเปิดกรุงไทย SET50 เพื่อการเลี้ยงชีพ|Krung Thai SET50 RMF|E|RMF|N|N|20161222|6|N|N|1530|500.00|500.00|1530|500.00|50.0000|||4||N|N|
+KTSF|KTAM|กองทุนเปิดกรุงไทยหุ้นทุนปันผล|The Krung Thai Dividend Selected  Fund|E||N|Y|20000710|6|N|N|1530|1000.00|1000.00|1530|||||4||Y|Y|KTSF
+KTSIV3M1|KTAM|กองทุนเปิดกรุงไทยสมาร์ท อินเวส 3 เดือน1|Krung Thai Smart Invest 3M1 Fund|F||N|N|20081015|4|N|N|1530|0.00|0.00|1530|||||1||N|N|KTSIV3M1
+KTSIV3M2|KTAM|กองทุนเปิดกรุงไทยสมาร์ท อินเวส 3 เดือน2|Krung Thai Smart Invest 3M2 Fund|F||N|N|20081119|4|N|N|1530|0.00|0.00|1530|||||1||N|N|KTSIV3M2
+KTSIV3M3|KTAM|กองทุนเปิดกรุงไทยสมาร์ท อินเวส 3 เดือน3|Krung Thai Smart Invest 3M3 Fund|F||N|N|20081224|4|N|N|1530|0.00|0.00|1530|||||1||N|N|KTSIV3M3
+KTSIV6M1|KTAM|กองทุนเปิดกรุงไทยสมาร์ท อินเวส 6 เดือน1|Krung Thai Smart Invest 6M1 Fund|F||N|N|20081022|4|N|N|1530|0.00|0.00|1530|||||1||N|N|KTSIV6M1
+KTSIV6M2|KTAM|กองทุนเปิดกรุงไทยสมาร์ท อินเวส 6 เดือน2|Krung Thai Smart Invest 6M2 Fund|F||N|N|20081126|4|N|N|1530|0.00|0.00|1530|||||1||N|N|KTSIV6M2
+KTSIV6M3|KTAM|กองทุนเปิดกรุงไทยสมาร์ท อินเวส 6 เดือน3|Krung Thai Smart Invest 6M3 Fund|F||N|N|20081224|4|N|N|1530|0.00|0.00|1530|||||1||N|N|KTSIV6M3
+KTSIV6M4|KTAM|กองทุนเปิดกรุงไทยสมาร์ท อินเวส 6 เดือน4|Krung Thai Smart Invest 6M4 Fund|F||N|N|20090128|4|N|N|1530|0.00|0.00|1530|||||1||N|N|KTSIV6M4
+KTSIV6M5|KTAM|กองทุนเปิดกรุงไทยสมาร์ท อินเวส 6 เดือน5|Krung Thai Smart Invest 6M5 Fund|F||N|N|20090225|4|N|N|1530|0.00|0.00|1530|||||1||N|N|KTSIV6M5
+KTSIV6M6|KTAM|กองทุนเปิดกรุงไทยสมาร์ท อินเวส 6 เดือน6|Krung Thai Smart Invest 6M6 Fund|F||N|N|20090401|4|N|N|1530|0.00|0.00|1530|||||1||N|N|KTSIV6M6
+KTSS|KTAM|กองทุนเปิดกรุงไทยสะสมทรัพย์|The Krung  Thai  Sa-Som-Sub Fund|F||N|N|20060511|1|N|N|1530|0.00|0.00|1530|||||1||Y|Y|KTSS
+KTSTPLUS-A|KTAM|กองทุนเปิดกรุงไทยตราสารหนี้ระยะสั้น พลัส - Class A|Krung Thai Short Term Fixed Income Plus Fund - Class A|F||N|Y|20160803|4|N|N|1530|0.00|0.00|1530|||||1||Y|Y|KTSTPLUS
+KTSUPB3Y2|KTAM|กองทุนเปิดกรุงไทย ธนทรัพย์ บี 3 ปี2|Krung Thai Thanasup B 3Y2|F||N|N|20151002|4|Y|N|1530|10000.00|10000.00|1530|||||1||Y|Y|
+KTSV|KTAM|กองทุนเปิดกรุงไทย เซฟวิ่ง ฟันด์|Krung Thai Savings Fund|F||N|N|20090604|1|N|N|1530|0.00|0.00|1530|||||1||Y|Y|KTSV
+KTWG-A|KTAM|กองทุนเปิดกรุงไทยผสม เวลท์ โกรท ฟันด์|Krung Thai Wealth Growth Mixed Fund|M||N|Y|20170116|5|Y|N|1530|1000.00|1000.00|1530|||||5||Y|Y|KTWG
+KTWP-A|KTAM|กองทุนเปิดกรุงไทยผสม เวลท์ พลัส ฟันด์|Krung Thai Wealth Plus Mixed Fund|M||N|Y|20170116|5|Y|N|1530|1000.00|1000.00|1530|||||5||Y|Y|KTWP
+MIX-D1585|UOBAM|กองทุนเปิด ไทย มิกซ์ 15/85 ปันผล|Thai Mixed 15/85 - Dividend Fund|M||N|Y|20120411|5|N|N|1530|2000.00|0.01|1500|0.01|0.0001|0.00|0.0000|4||Y|Y|MIX-D1585
+MS-ASIAN SM|MANULIFEAM|กองทุนเปิด แมนูไลฟ์ สเตร็งค์ เอเชียน สมอลแคป อิควิตี้ เอฟไอเอฟ|Manulife Strength-Asian Small Cap Equity FIF|E||N|N|20120131|4|Y|N|1530|||1530|||||1||Y|Y|MS-ASIAN SM
+MS-CORE LTF|MANULIFEAM|กองทุนเปิด แมนูไลฟ์ สเตร็งค์ คอร์ หุ้นระยะยาว|Manulife Strength-Core Long-Term Equity Fund|E|LTF|N|N|20070621|4|Y|N|1530|||1530|||||1||Y|Y|MS-CORE LTF
+MS-EQ DIV|MANULIFEAM|กองทุนเปิด แมนูไลฟ์ สเตร็งค์ อิควิตี้ ปันผล|Manulife Strength-Equity Dividend Fund|E||N|Y|20090828|4|Y|N|1530|||1530|||||1||Y|Y|MS-EQ DIV
+MS-FLEX RMF|MANULIFEAM|กองทุนเปิด แมนูไลฟ์ สเตร็งค์ เฟล็กซิเบิ้ลฟันด์ เพื่อการเลี้ยงชีพ|Manulife Strength-Flexible Retirement Mutual Fund|M|RMF|N|N|20081225|4|Y|N|1530|||1530|||||1||Y|Y|MS-FLEX RMF
+MS-MONEY|MANULIFEAM|กองทุนเปิด แมนูไลฟ์ สเตร็งค์ มันนี่ มาร์เก็ต|Manulife Strength-Money Market Fund|F||N|N|20080220|4|Y|N|1530|||1530|||||1||Y|Y|MS-MONEY
+P-LTF|PAMC|กองทุนเปิด  ฟิลลิป หุ้นระยะยาว|Phillip Long Term Equity Fund|E|LTF|N|N|20070626|4|Y|N|1530|||1530|||||1||Y|Y|P-LTF
+PCASH|PAMC|กองทุนเปิดฟิลลิปบริหารเงิน|PHILLIP CASH MANAGEMENT OPEN END FUND|F||N|N|20070807|4|Y|N|1530|||1530|||||1||Y|Y|PCASH
+PEQ|PAMC|กองทุนเปิด ฟิลลิป ตราสารทุน|Phillip Equity Fund|E||N|N|20130719|4|Y|N|1530|||1530|||||1||Y|Y|PEQ
+PFIXRMF|PAMC|กองทุนเปิดฟิลลิปตราสารหนี้เพื่อการเลี้ยงชีพ|PHILLIP FIXED INCOME RETIREMENT MUTUAL FUND|F|RMF|N|N|20080320|4|Y|N|1530|||1530|||||1||Y|Y|PFIXRMF
+PGOLD|PAMC|กองทุนเปิด ฟิลลิป ทองคำ|Phillip Gold Fund|O||N|N|20091030|4|Y|N|1530|||1530|||||1||Y|Y|PGOLD
+RMF1|KTAM|กองทุนเปิดกรุงไทยผสมเพื่อการเลี้ยงชีพ (RMF1)|The Krung Thai Mixed Fund RMF 1|M|RMF|N|N|20020918|5|N|N|1530|500.00|500.00|1530|500.00|50.0000|||4||N|N|RMF1
+RMF2|KTAM|กองทุนเปิดกรุงไทยตราสารหนี้เพื่อการเลี้ยงชีพ (RMF2)|The Krung Thai Fixed Income RMF 2|F|RMF|N|N|20020918|4|N|N|1530|500.00|500.00|1530|500.00|50.0000|||2||N|N|RMF2
+RMF3|KTAM|กองทุนเปิดกรุงไทยตราสารหนี้ภาครัฐเพื่อการเลี้ยงชีพ (RMF3)|The Krung  Thai Debt Securities RMF 3|F|RMF|N|N|20051020|3|N|N|1530|500.00|500.00|1530|500.00||||2||N|N|RMF3
+RMF4|KTAM|กองทุนเปิดกรุงไทยตลาดเงินเพื่อการเลี้ยงชีพ (RMF4)|Krung Thai Money Market RMF 4|F|RMF|N|N|20081209|1|N|N|1530|500.00|500.00|1530|500.00|50.0000|||1||Y|Y|RMF4
+S-EQRMF|S-FUNDS|กองทุนเปิดโซลาริสตราสารทุนเพื่อการเลี้ยงชีพ|Solaris Equity  RMF|E|RMF|N|N|20091112|4|Y|N|1530|||1530|||||1||Y|Y|S-EQRMF
+S-EQSTAR|S-FUNDS|กองทุนเปิดโซลาริส เอคควิตี้ สตาร์ ฟันด์|Solaris Equity Star Fund|M||N|N|20141028|4|Y|N|1530|||1530|||||1||Y|Y|S-EQSTAR
+S-MMF|S-FUNDS|กองทุนเปิดโซลาริสมันนี่ พลัส|Solaris Money Plus  Fund|F||N|N|20090326|4|Y|N|1530|||1530|||||1||Y|Y|S-MMF
+SCB2566|SCBAM|กองทุนเปิดไทยพาณิชย์สำหรับการเกษียณอายุปี 2566|SCB RETIREMENT YEAR 2566|M||N|N|20131115|5|Y|N|1530|1000.00|1000.00|1530|1000.00||1000.00||3||Y|Y|SCB2566
+SCB2576|SCBAM|กองทุนเปิดไทยพาณิชย์สำหรับการเกษียณอายุปี 2576|SCB RETIREMENT YEAR 2576|M||N|N|20131115|5|Y|N|1530|1000.00|1000.00|1530|1000.00||1000.00||3||Y|Y|SCB2576
+SCB2586|SCBAM|กองทุนเปิดไทยพาณิชย์สำหรับการเกษียณอายุปี 2586|SCB RETIREMENT YEAR 2586|M||N|N|20131115|5|Y|N|1530|1000.00|1000.00|1530|1000.00||1000.00||3||Y|Y|SCB2586
+SCBABS|SCBAM|กองทุนเปิดไทยพาณิชย์ แอปโซลูท รีเทิร์น|SCB ABSOLUTE RETURN FUND|M||N|N|20170503|5|Y|N|1530|5000.00|1000.00|1530|1000.00||1000.00||3||Y|Y|SCBABS
+SCBAEM|SCBAM|กองทุนเปิดไทยพาณิชย์ เอเชียน อีเมอร์จิ้ง มาร์เก็ต ฟันด์|SCB ASIAN EMERGING MARKETS OPEN END FUND|E||N|N|20080206|6|Y|N|1500|10000.00|10000.00|1500|10000.00||10000.00||5||N|N|SCBAEM
+SCBAEMHA|SCBAM|กองทุนเปิดไทยพาณิชย์ เอเชียน อีเมอร์จิ้ง มาร์เก็ต ฟันด์ THB เฮดจ์|SCB Asian Emerging Markets THB Hedged|E||N|N|20170829|6|Y|N|1500|5000.00|1000.00|1500|1000.00||1000.00||5||N|N|SCBAEMH
+SCBAPLUS|SCBAM|กองทุนเปิดไทยพาณิชย์ เอเชียแปซิฟิคอินคัมพลัส|SCB Asia Pacific Income Plus Fund|M||N|Y|20161026|5|Y|N|1500|550000.00|1000.00|1500|1000.00||1000.00||3||Y|Y|SCBAPLUSFUND
+SCBAUD|SCBAM|กองทุนเปิดไทยพาณิชย์ตราสารหนี้ระยะสั้นและเงินฝากสกุลเงินออสเตรเลีย|SCB SHORT TERM AUD OPEN  END FUND|F||N|N|20090527|4|Y|N|1530|5000.00|1000.00|1530|1000.00||1000.00||3||Y|Y|SCBAUD
+SCBBANKING|SCBAM|กองทุนเปิดไทยพาณิชย์ SET BANKING SECTOR INDEX|SCB SET BANKING SECTOR INDEX FUND|E||N|Y|20110628|7|N|N|1530|5000.00|1000.00|1530|1000.00||1000.00||3||Y|Y|
+SCBBANKINGP|SCBAM|กองทุนเปิดไทยพาณิชย์ SET BANKING SECTOR INDEX ชนิดผู้ลงทุนกลุ่ม/บุคคล|SCB SET BANKING SECTOR INDEX FUND|E||N|Y|20110628|7|N|N|1530|5000.00|1000.00|1530|1000.00||1000.00||3||Y|Y|
+SCBBLN|SCBAM|กองทุนเปิดไทยพาณิชย์ บิลเลียนแนร์|SCB BILLIONAIRE FUND|E||N|Y|20150724|6|Y|N|1530|5000.00|1000.00|1530|1000.00||1000.00||3||Y|Y|SCBBLN
+SCBCE|SCBAM|กองทุนเปิดไทยพาณิชย์หุ้นจีน|SCB CHINA EQUITY OPEN END FUND|E||N|N|20091125|6|Y|N|1430|5000.00|1000.00|1430|1000.00||1000.00||2||Y|Y|SCBCE
+SCBCEH|SCBAM|กองทุนเปิดไทยพาณิชย์หุ้นจีน THB เฮ็ดจ์|SCB CHINA EQUITY THB HEDGE|E||N|N|20130319|6|Y|N|1430|5000.00|1000.00|1430|1000.00||1000.00||2||Y|Y|SCBCEH
+SCBCHA|SCBAM|กองทุนเปิดไทยพาณิชย์ หุ้นจีนเอแชร์|SCB CHINA A-SHARES FUND|E||N|Y|20150213|6|Y|N|1430|5000.00|1000.00|1430|1000.00||1000.00||2||Y|Y|SCBCHA
+SCBCOMP|SCBAM|กองทุนเปิดไทยพาณิชย์ คอมมอดิตี้ พลัส|SCB COMMODITY PLUS FUND|O||N|N|20121003|8|Y|N|1530|5000.00|1000.00|1530|1000.00||1000.00||5||N|N|SCBCOMP
+SCBDA|SCBAM|กองทุนเปิดไทยพาณิชย์ธนอนันต์|SCB DHANA ANANTA OPEN END FUND|E||N|N|19940926|6|N|N|1530|5000.00|1000.00|1530|1000.00||1000.00||3||Y|Y|SCBDA
+SCBDAP|SCBAM|กองทุนเปิดไทยพาณิชย์ธนอนันต์|SCB DHANA ANANTA OPEN END FUND|E||N|N|19940926|6|N|N|1530|5000.00|1000.00|1530|1000.00||1000.00||3||Y|Y|SCBDAFUND
+SCBDIGI|SCBAM|กองทุนเปิดไทยพาณิชย์ โกลบอลดิจิตอล|SCB GLOBAL DIGITAL FUND|E||N|N|20160628|6|Y|N|1530|5000.00|1000.00|1530|1000.00||1000.00||4||Y|Y|SCBDIGI
+SCBDV|SCBAM|กองทุนเปิดไทยพาณิชย์หุ้นทุนปันผล|SCB DIVIDEND STOCK OPEN END FUND|E||N|Y|20030916|6|N|N|1530|1000.00|1000.00|1530|1000.00||1000.00||3||Y|Y|SCBDV
+SCBDVP|SCBAM|กองทุนเปิดไทยพาณิชย์หุ้นทุนปันผล|SCB DIVIDEND STOCK OPEN END FUND|E||N|Y|20030916|6|N|N|1530|1000.00|1000.00|1530|1000.00||1000.00||3||Y|Y|SCBDVFUND
+SCBEMBOND|SCBAM|กองทุนเปิดไทยพาณิชย์ตราสารหนี้ตลาดเกิดใหม่|SCB EMERGING MARKETS BOND FUND|F||N|Y|20130307|4|Y|N|1500|5000.00|1000.00|1500|1000.00||1000.00||5||N|N|SCBEMBOND
+SCBEMEQ|SCBAM|กองทุนเปิดไทยพาณิชย์หุ้นตลาดเกิดใหม่|SCB EMERGING EQUITY FUND|E||N|Y|20121218|6|Y|N|1530|5000.00|1000.00|1530|1000.00||1000.00||5||N|N|SCBEMEQ
+SCBENERGY|SCBAM|กองทุนเปิดไทยพาณิชย์ SET ENERGY SECTOR INDEX|SCB SET ENERGY SECTOR INDEX FUND|E||N|Y|20110628|7|N|N|1530|5000.00|1000.00|1530|1000.00||1000.00||3||Y|Y|
+SCBENERGYP|SCBAM|กองทุนเปิดไทยพาณิชย์ SET ENERGY SECTOR INDEX ชนิดผู้ลงทุนกลุ่ม/บุคคล|SCB SET ENERGY SECTOR INDEX FUND|E||N|Y|20110628|7|N|N|1500|5000.00|1000.00|1500|1000.00||1000.00||3||Y|Y|
+SCBEUEQ|SCBAM|กองทุนเปิดไทยพาณิชย์หุ้นยุโรป|SCB EUROPEAN EQUITY FUND|E||N|Y|20140226|6|Y|N|1530|5000.00|1000.00|1530|1000.00||1000.00||3||N|N|SCBEUEQ
+SCBEUSM|SCBAM|กองทุนเปิดไทยพาณิชย์ หุ้นยุโรปสมอลแคป|SCB European Small Cap Equity Fund|E||N|N|20160531|6|Y|N|1530|5000.00|1000.00|1530|1000.00||1000.00||3||Y|Y|SCBEUSM
+SCBFLX|SCBAM|กองทุนเปิดไทยพาณิชย์ เฟล็กซิเบิ้ล|SCB Flexible Fund|M||N|N|20160923|5|N|N|1530|5000.00|1000.00|1530|1000.00||1000.00||3||Y|Y|SCBFLX
+SCBFP|SCBAM|กองทุนเปิดไทยพาณิชย์ตราสารหนี้ พลัส|SCB FIXED INCOME PLUS FUND|F||N|N|20101021|4|N|N|1530|5000.00|1000.00|1530|1000.00||1000.00||2||N|N|SCBFP
+SCBFPP|SCBAM|กองทุนเปิดไทยพาณิชย์ตราสารหนี้ พลัส|SCB FIXED INCOME PLUS FUND|F||N|Y|20101021|4|N|N|1530|5000.00|1000.00|1530|1000.00||1000.00||2||N|N|SCBFPFUND
+SCBFST|SCBAM|กองทุนเปิดไทยพาณิชย์ ตราสารหนี้ระยะสั้นต่างประเทศ|SCB FOREIGN SHORT TERM FIXED INCOME|F||N|N|20151124|4|Y|N|1530|5000.00|1000.00|1530|1000.00||1000.00||3||Y|Y|SCBFST
+SCBGEQ|SCBAM|กองทุนเปิดไทยพาณิชย์โกลบอล อิควิตี้|SCB GLOBAL EQUITY FUND|E||N|Y|20130214|6|Y|N|1530|5000.00|1000.00|1530|1000.00||1000.00||6||N|N|SCBGEQ
+SCBGHC|SCBAM|กองทุนเปิดไทยพาณิชย์หุ้นโกลบอลเฮลธ์แคร์|SCB GLOBAL HEALTH CARE EQUITY FUND|E||N|Y|20150902|7|Y|N|1530|5000.00|1000.00|1530|1000.00||1000.00||5||N|N|SCBGHC
+SCBGIF|SCBAM|กองทุนเปิดไทยพาณิชย์ โกลบอล อินฟราสตรัคเจอร์ อิควิตี้|SCB GLOBAL INFRASTRUCTURE EQUITY FUND|E||N|N|20151006|6|Y|N|1530|5000.00|1000.00|1530|1000.00||1000.00||4||Y|Y|SCBGIF
+SCBGINR|SCBAM|กองทุนเปิดไทยพาณิชย์ โกลบอลอินคัม|SCB Global Income Fund|M||N|Y|20170127|5|Y|N|1530|5000.00|1000.00|1530|1000.00||1000.00||4||Y|Y|SCBGIN
+SCBGLOB|SCBAM|กองทุนเปิดไทยพาณิชย์โกลบอล บอนด์|SCB GLOBAL BOND FUND|F||N|N|20120730|4|Y|N|1530|5000.00|1000.00|1530|1000.00||1000.00||5||N|N|SCBGLOB
+SCBGLOW|SCBAM|กองทุนเปิดไทยพาณิชย์ โกลบอล เวลท์|SCB GLOBAL WEALTH OPEN END FUND|M||N|N|20111223|5|Y|N|1530|5000.00|1000.00|1530|1000.00||1000.00||5||N|N|SCBGLOW
+SCBGLOWP|SCBAM|กองทุนเปิดไทยพาณิชย์ โกลบอล เวลท์ พลัส|SCB GLOBAL WEALTH PLUS OPEN END FUND|M||N|N|20120919|5|Y|N|1530|5000.00|1000.00|1530|1000.00||1000.00||5||N|N|SCBGLOWP
+SCBGMTA|SCBAM|กองทุนเปิดไทยพาณิชย์โกลบอลมัลติสตราทิจีส์ เพื่อผู้ลงทุนที่มิใช่รายย่อย|SCB Global Multi Strategies for Accredited Investors|M||N|Y|20170221|5|Y|N|1530|550000.00|1000.00|1530|1000.00||1000.00||5||Y|Y|SCBGMT
+SCBGOLD|SCBAM|กองทุนเปิดไทยพาณิชย์โกลด์|SCB GOLD OPEN END FUND|O||N|N|20110826|8|Y|N|1530|5000.00|1000.00|1530|1000.00||1000.00||3||Y|Y|SCBGOLD
+SCBGOLDH|SCBAM|กองทุนเปิดไทยพาณิชย์โกลด์ THB เฮดจ์|SCB GOLD THB HEDGED OPEN END FUND|O||N|N|20110826|8|Y|N|1530|5000.00|1000.00|1530|1000.00||1000.00||3||Y|Y|SCBGOLDH
+SCBGOLDHP|SCBAM|กองทุนเปิดไทยพาณิชย์โกลด์ THB เฮดจ์|SCB GOLD THB HEDGED OPEN END FUND|O||N|Y|20110826|8|Y|N|1530|5000.00|1000.00|1530|1000.00||1000.00||3||Y|Y|SCBGOLDHFUND
+SCBGPLUS|SCBAM|กองทุนเปิดไทยพาณิชย์ โกลบอลอินคัมพลัส|SCB GLOBAL INCOME PLUS FUND|M||N|N|20160202|5|Y|N|1530|550000.00|1000.00|1530|1000.00||1000.00||4||Y|Y|SCBGPLUS
+SCBGPROP|SCBAM|กองทุนเปิดไทยพาณิชย์ โกลบอล พร็อพเพอร์ตี้|SCB GLOBAL PROPERTY|E||N|Y|20161004|7|Y|N|1500|5000.00|1000.00|1500|1000.00||1000.00||3||Y|Y|SCBGPROP
+SCBGSIF|SCBAM|กองทุนเปิดไทยพาณิชย์ โกลบอล สตราทีจิก อินเวสเมนท์|SCB GLOBAL STRATEGIC INVESTMENT FUND|M||N|Y|20120730|5|Y|N|1530|5000.00|1000.00|1530|1000.00||1000.00||5||N|N|SCBGSIFUND
+SCBGSIFR|SCBAM|กองทุนเปิดไทยพาณิชย์ โกลบอล สตราทีจิก อินเวสเมนท์|SCB GLOBAL STRATEGIC INVESTMENT FUND|M||N|Y|20120730|5|Y|N|1530|5000.00|1000.00|1530|1000.00||1000.00||5||N|N|SCBGSIFUND
+SCBINDIA|SCBAM|กองทุนเปิดไทยพาณิชย์ หุ้นอินเดีย|SCB INDIA EQUITY FUND|E||N|Y|20150324|6|Y|N|1530|5000.00|1000.00|1530|1000.00||1000.00||3||Y|Y|SCBINDIA
+SCBKEQTG|SCBAM|กองทุนเปิดไทยพาณิชย์หุ้นเกาหลี|SCB KOREA EQUITY FUND|E||N|N|20140829|6|Y|N|1530|10000.00|1000.00|1530|1000.00||1000.00||3||Y|Y|SCBKEQTG
+SCBLEQ|SCBAM|กองทุนเปิดไทยพาณิชย์ หุ้น LOW VOLATILITY|SCB LOW VOLATILITY EQUITY FUND|E||N|Y|20160428|6|Y|N|1530|5000.00|1000.00|1530|1000.00||1000.00||3||Y|Y|SCBLEQ
+SCBLT1|SCBAM|กองทุนเปิดไทยพาณิชย์หุ้นระยะยาวปันผล 70/30|SCB DIVIDEND STOCK 70/30 LONG TERM EQUITY FUND|E|LTF|N|Y|20041021|6|N|N|1530|5000.00|1000.00|1530|||||3||Y|Y|SCBLT1
+SCBLTT|SCBAM|กองทุนเปิดไทยพาณิชย์หุ้นระยะยาวทาร์เก็ต|SCB TARGET LONG TERM EQUITY FUND|E|LTF|N|Y|20070627|6|N|N|1530|5000.00|1000.00|1530|||||3||Y|Y|SCBLTT
+SCBMPLUSA|SCBAM|กองทุนเปิดไทยพาณิชย์ มัลติ อินคัมพลัส|SCB MULTI  INCOME PLUS FUND|M||N|Y|20170131|5|Y|N|1530|5000.00|1000.00|1530|1000.00||1000.00||3||Y|Y|SCBMPLUS
+SCBMSE|SCBAM|กองทุนเปิดไทยพาณิชย์หุ้นทุน Mid/Small Cap|SCB Mid/Small Cap Equity Fund|E||N|N|20150121|6|N|N|1530|5000.00|1000.00|1530|1000.00||1000.00||3||Y|Y|SCBMSE
+SCBMSEP|SCBAM|กองทุนเปิดไทยพาณิชย์หุ้นทุน Mid/Small Cap|SCB Mid/Small Cap Equity Fund|E||N|N|20150121|6|N|N|1530|5000.00|1000.00|1530|1000.00||1000.00||3||Y|Y|SCBMSEFUND
+SCBNK225|SCBAM|กองทุนเปิดไทยพาณิชย์หุ้นญี่ปุ่น|SCB JAPAN EQUITY FUND|E||N|Y|20131011|6|Y|N|1200|5000.00|1000.00|1200|1000.00||1000.00||3||Y|Y|SCBNKY225
+SCBNK225D|SCBAM|กองทุนเปิดไทยพาณิชย์หุ้นญี่ปุ่น|SCB JAPAN EQUITY FUND|E||N|Y|20131011|6|Y|N|1200|5000.00|1000.00|1200|1000.00||1000.00||3||Y|Y|SCBNKY225
+SCBOIL|SCBAM|กองทุนเปิดไทยพาณิชย์ออยล์|SCB OIL FUND|O||N|N|20121003|8|Y|N|1530|5000.00|1000.00|1530|1000.00||1000.00||4||N|N|SCBOIL
+SCBOILP|SCBAM|กองทุนเปิดไทยพาณิชย์ออยล์|SCB OIL FUND|O||N|Y|20121003|8|Y|N|1530|5000.00|1000.00|1530|1000.00||1000.00||4||N|N|SCBOILFUND
+SCBPGF|SCBAM|กองทุนเปิดไทยพาณิชย์ แพลทตินัม โกลบอล ฟันด์|SCB PLATINUM GLOBAL OPEN END FUND|E||N|N|20060904|6|Y|N|1530|10000.00|10000.00|1530|10000.00||10000.00||5||N|N|SCBPGF
+SCBPLUS|SCBAM|กองทุนเปิดไทยพาณิชย์ อินคัมพลัส|SCB INCOME PLUS FUND|M||N|N|20160317|5|Y|N|1530|5000.00|1000.00|1530|1000.00|1000.0000|1000.00||3||Y|Y|SCBPLUS
+SCBPMO|SCBAM|กองทุนเปิดไทยพาณิชย์เพิ่มผลมั่นคง|SCB PERMPOL MUNKHONG OPEN END FUND|E||N|Y|19950504|6|N|N|1530|5000.00|1000.00|1530|1000.00||1000.00||3||Y|Y|SCBPMO
+SCBPMOP|SCBAM|กองทุนเปิดไทยพาณิชย์เพิ่มผลมั่นคง|SCB PERMPOL MUNKHONG OPEN END FUND|E||N|Y|19950504|6|N|N|1530|5000.00|1000.00|1530|1000.00||1000.00||3||Y|Y|SCBPMOFUND
+SCBRF|SCBAM|กองทุนเปิดไทยพาณิชย์เกษียณสุข (ตราสารหนี้)|SCB RETIREMENT FIXED INCOME OPEN END FUND|F||N|N|19970328|4|N|N|1530|5000.00|1000.00|1530|1000.00||1000.00||2||N|N|SCBRF
+SCBRMJP|SCBAM|กองทุนเปิดไทยพาณิชย์ หุ้นญี่ปุ่น เพื่อการเลี้ยงชีพ|SCB JAPAN EQUITY RMF|E|RMF|N|N|20151106|6|Y|N|1200|5000.00|1000.00|1200|1000.00||1000.00||3||Y|Y|SCBRMJP
+SCBS&P500|SCBAM|กองทุนเปิดไทยพาณิชย์หุ้นยูเอส|SCB US EQUITY FUND|E||N|Y|20121218|6|Y|N|1530|5000.00|1000.00|1530|1000.00||1000.00||4||N|N|SCBS&P500
+SCBSE|SCBAM|กองทุนเปิดไทยพาณิชย์ ซีเล็คท์ อิควิตี้ ฟันด์|SCB SELECTS EQUITY FUND|E||N|Y|20110628|6|N|N|1530|1000.00|1000.00|1530|1000.00||1000.00||3||Y|Y|SCBSE
+SCBSEA|SCBAM|กองทุนเปิดไทยพาณิชย์ ซีเล็คท์ อิควิตี้ ฟันด์|SCB SELECTS EQUITY FUND|E||N|Y|20110628|6|N|N|1530|1000.00|1000.00|1530|1000.00||1000.00||3||Y|Y|SCBSEFUND
+SCBSET|SCBAM|กองทุนเปิดไทยพาณิชย์ เซ็ท อินเด็กซ์ ฟันด์|SCB SET INDEX FUND|E||N|N|19960820|6|N|N|1530|1000.00|1000.00|1530|1000.00||1000.00||3||Y|Y|
+SCBSET50|SCBAM|กองทุนเปิดไทยพาณิชย์ SET50 INDEX|SCB SET50 INDEX FUND|E||N|N|20111019|6|N|N|1530|5000.00|1000.00|1530|1000.00||1000.00||3||Y|Y|
+SCBSETP|SCBAM|กองทุนเปิดไทยพาณิชย์ เซ็ท อินเด็กซ์ ฟันด์|SCB SET INDEX FUND|E||N|Y|19960820|6|N|N|1530|1000.00|1000.00|1530|1000.00||1000.00||3||Y|Y|SCBSETFUND
+SCBSFF|SCBAM|กองทุนเปิดไทยพาณิชย์ตราสารหนี้ระยะสั้น|SCB Short Term Fixed Income Fund|F||N|N|19970227|4|N|N|1530|5000.00|1000.00|1530|1000.00||1000.00||1||Y|Y|SCBSFF
+SCBSFFPLUS-I|SCBAM|กองทุนเปิดไทยพาณิชย์ตราสารหนี้ระยะสั้น พลัส|SCB Short Term Fixed Income Plus Fund|F||N|N|20131120|4|Y|N|1530|1000.00|1000.00|1530|1000.00||||1||Y|Y|SCBSFFPLUS
+SCBSMART2|SCBAM|กองทุนเปิดไทยพาณิชย์สมาร์ทแพลน 2|SCB SMART PLAN 2 OPEN END FUND|M||N|Y|20120926|5|N|N|1530|1000.00|1000.00|1530|1000.00||1000.00||4||N|N|SCBSMART2
+SCBSMART3|SCBAM|กองทุนเปิดไทยพาณิชย์สมาร์ทแพลน 3|SCB SMART PLAN 3 OPEN END FUND|M||N|Y|20120926|5|Y|N|1530|1000.00|1000.00|1530|1000.00||1000.00||5||N|N|SCBSMART3
+SCBSMART4|SCBAM|กองทุนเปิดไทยพาณิชย์สมาร์ทแพลน 4|SCB SMART PLAN 4 OPEN END FUND|M||N|Y|20120926|5|Y|N|1530|1000.00|1000.00|1530|1000.00||1000.00||5||N|N|SCBSMART4
+SCBTEQ|SCBAM|กองทุนเปิดไทยพาณิชย์ ไทยอิควิตี้|SCB Thai Equity Fund|E||N|N|20160923|6|N|N|1530|5000.00|1000.00|1530|1000.00||1000.00||3||Y|Y|SCBTEQ
+SCBTHAICGA|SCBAM|กองทุนเปิดไทยพาณิชย์ หุ้นธรรมาภิบาลไทย|SCB Thai Equity CG Fund|E||N|N|20170919|6|N|N|1530|5000.00|1000.00|1530|1000.00||1000.00||3||Y|Y|SCBTHAICG
+SCBTMF|SCBAM|กองทุนเปิดไทยพาณิชย์ตราสารรัฐตลาดเงิน|SCB TREASURY MONEY OPEN END FUND|F||N|N|20090721|1|N|N|1530|5000.00|1000.00|1530|1000.00||1000.00||1||Y|Y|SCBTMF
+SCBTMFPLUS-I|SCBAM|กองทุนเปิดไทยพาณิชย์ตราสารรัฐตลาดเงิน พลัส|SCB TREASURY MONEY PLUS OPEN END FUND|F||N|N|20120905|1|N|N|1530|1000.00|0.00|1530|||||1||Y|Y|SCBTMFPLUS
+SCBUSHYA|SCBAM|กองทุนเปิดไทยพาณิชย์ ตราสารหนี้ US Short Duration High Income|SCB US Short Duration High Income Bond|F||N|Y|20170328|6|Y|N|1500|5000.00|1000.00|1500|1000.00||1000.00||3||Y|Y|SCBUSHY
+SCBUSSM|SCBAM|กองทุนเปิดไทยพาณิชย์ ยูเอสสมอลแคป|SCB US SMALL CAP EQUITY FUND|E||N|N|20160531|6|Y|N|1530|5000.00|1000.00|1530|1000.00||1000.00||4||Y|Y|SCBUSSM
+SCBWINR|SCBAM|กองทุนเปิดไทยพาณิชย์ เวิลด์อินคัม|SCB World Income Fund|M||N|Y|20170718|5|Y|N|1500|5000.00|1000.00|1500|1000.00||1000.00||3||Y|Y|SCBWIN
+SMO5A1|MFC|กองทุนเปิดเอ็มเอฟซี สมาร์ท โมเมนตัม ซีรี่ส์ 5 เอ 1|MFC Smart Momentum Series 5 A1 Fund|M||N|N||6|Y|N|1530|10000.00|10000.00|1300|0.00|0.0000|0.00|0.0000|5||N|Y|SMO5A1
+SVRMF|UOBAM|กองทุนเปิด ออมทรัพย์เพื่อการเลี้ยงชีพ|Saving Retirement Mutual Fund|F|RMF|N|N|20041222|4|N|N|1530|2000.00|0.01|1400|0.01|0.0001|0.00|0.0000|1||Y|Y|SVRMF
+TBF|UOBAM|กองทุนเปิด ไทย บาลานซ์ฟันด์|Thai Balanced Fund|M||N|Y|19970718|5|N|N|1530|2000.00|0.01|1500|0.01|0.0001|0.00|0.0000|4||Y|Y|TBF
+TCMF|UOBAM|กองทุนเปิด ไทย แคช แมเนจเม้นท์|Thai Cash Management Fund|F||N|N|20001208|1|N|N|1530|2000.00|0.01|1500|0.01|0.0001|0.00|0.0000|1||Y|Y|TCMF
+TCMFENJOY|UOBAM|กองทุนเปิด ไทย แคช แมเนจเม้นท์ เอ็นจอย|Thai Cash Management Enjoy Fund|F||N|N|20120329|1|N|N|1530|10000.00|10000.00|0001|||0.00|0.0000|1||Y|Y|TCMFENJOY
+TDF|UOBAM|กองทุนเปิด ไทยดรากอน|Thai Dragon Fund|E||N|Y|19940322|6|N|N|1530|20000.00|10000.00|1530|0.01|1000.0000|0.00|0.0000|4||N|Y|TDF
+TDLTF|TISCOASSET|กองทุนเปิด ทิสโก้ หุ้นระยะยาวปันผล|TISCO Dividend Long Term Equity Fund|E|LTF|N|Y|20070613|4|N|N|1530|||1530|||||1||Y|Y|TDLTF
+TEF|UOBAM|กองทุนเปิด ไทย อิควิตี้ฟันด์|Thai Equity Fund|E||N|N|19990528|6|N|N|1530|2000.00|0.01|1500|0.01|0.0100|0.00|0.0000|4||Y|Y|TEF
+TEF-DIV|UOBAM|กองทุนเปิด ไทย อิควิตี้ฟันด์ - ปันผล|Thai Equity - Dividend Fund|E||N|Y|20040322|6|N|N|1530|2000.00|0.01|1500|0.01|0.0001|0.00|0.0000|4||Y|Y|TEF-DIV
+TFIF|UOBAM|กองทุนเปิด ไทย ตราสารหนี้|Thai Fixed Income Fund|F||N|N|20010126|4|N|N|1530|2000.00|0.01|1200|0.01|0.0001|0.00|0.0000|2||Y|Y|TFIF
+TISCOCH|TISCOASSET|กองทุนเปิด ทิสโก้ ไชน่า H-Shares อิควิตี้|TISCO China H-Shares Equity Fund|E||N|N|20101027|4|Y|N|1530|||1530|||||1||Y|Y|TISCOCH
+TISCOMS|TISCOASSET|กองทุนเปิด ทิสโก้ Mid/Small Cap อิควิตี้|TISCO Mid/Small Cap Equity Fund|E||N|N|20130711|4|Y|N|1530|||1530|||||1||Y|Y|TISCOMS
+TISCOSTF|TISCOASSET|กองทุนเปิด ทิสโก้ พันธบัตรระยะสั้น|TISCO Short Term Government Bond Fund|F||N|N|20050525|4|Y|N|1530|||1530|||||1||Y|Y|TISCOSTF
+TLEQ-THAICG|TALISAM|กองทุนเปิดทาลิส หุ้นธรรมาภิบาลไทย|TALIS THAI EQUITY CG FUND|E||N|N|20170915|6|N|N|1530|5000.00|5000.00|1530|5000.00|0.0000|0.00|500.0000|4||Y|Y|TLEQ-THAICG
+TMB50|TMBAM|กองทุนเปิดทหารไทย SET50|TMB SET50|E||N|N|20010329|4|N|N|1530|||1530|||||1||Y|Y|TMB50
+TMBGINCOME|TMBAM|กองทุนเปิดทหารไทย Global Income|TMB Global Income Fund|M||N|N|20160519|4|N|N|1530|||1530|||||1||Y|Y|
+TMBMRMF|TMBAM|กองทุนเปิดทหารไทยธนบดีเพื่อการเลี้ยงชีพ|TMB Money Retirement Mutual Fund|F|RMF|N|N|20031114|4|N|N|1530|||1530|||||1||Y|Y|TMBMRMF
+TMBTHANAPLUS|TMBAM|กองทุนเปิดทหารไทยธนพลัส|TMB THANAPLUS FUND|F||N|N|20100203|4|N|N|1530|||1530|||||1||Y|Y|TMBTHANAPLUS
+TOF|KTAM|กองทุนเปิดไทยสร้างโอกาส|The Thai Opportunity Fund|M||N|Y|20020221|5|N|N|1530|10000.00|10000.00|1530|10000.00|100.0000|||4||Y|Y|TOF
+TOF2|KTAM|กองทุนเปิดไทยสร้างโอกาส 2|The Thai Opportunity Fund 2|M||N|Y|20021025|5|N|N|1530|10000.00|10000.00|1530|10000.00|1000.0000|10000.00|1000.0000|4||Y|Y|TOF2
+TSFIRMF|TISCOASSET|กองทุนเปิด ทิสโก้ ตราสารหนี้มั่นคงเพื่อการเลี้ยงชีพ|TISCO Secured  Fixed Income Retirement  Fund|F|RMF|N|N|20011227|4|Y|N|1530|||1530|||||1||Y|Y|TSFIRMF
+TTPF2|KTAM|กองทุนเปิดไทยทวีทุน 2|Thailand Prosperity Fund 2|M||N|N|20080910|5|N|N|1530|0.00|0.00|1530|||||1||Y|Y|
+UAI|UOBAM|กองทุนเปิด ยูไนเต็ด เอเชีย แปซิฟิก อินคัม ฟันด์|United Asia Pacific Income Fund|M||N|N|20150526|5|Y|N|1530|500000.00|0.01|1400|0.01|0.0001|0.00|0.0000|5||Y|Y|UAI
+UES|UOBAM|กองทุนเปิด ยูไนเต็ด ยูโรเปี้ยน สมอล แคป ฟันด์|United European Small Cap Fund|E||N|N|20151020|6|Y|N|1530|2000.00|0.01|1530|0.01|0.0001|0.00|0.0000|5||Y|Y|UES
+UFLINK|UOBAM|กองทุนเปิด ยูไนเต็ด ฟันด์ ลิงค์ คอมเพล็กซ์ รีเทิร์น ห้ามขายผู้ลงทุนรายย่อย|United Fund-Linked Complex Return Not for Retail Investors|F||N|N|20170629|5|Y|N|1530|500000.00|0.01|0001|||0.00|0.0000|||N|N|UFLINK
+UFLINK2|UOBAM|กองทุนเปิด ยูไนเต็ด ฟันด์ ลิงค์ คอมเพล็กซ์ รีเทิร์น 2 ห้ามขายผู้ลงทุนรายย่อย|United Fund-Linked Complex Return 2 Not for Retail Investors|F||N|N|20170901|5|Y|N|1530|500000.00|0.01|0001|||0.00|0.0000|||N|Y|UFLINK2
+UGD|UOBAM|กองทุนเปิด ยูไนเต็ด โกลบอล ดูเรเบิ้ล อิควิตี้ ฟันด์|United Global Durable Equities Fund|E||N|N|20151117|6|Y|N|1530|0.01|0.01|1400|0.01|0.0001|0.00|0.0000|5||Y|Y|UGD
+UGH|UOBAM|กองทุนเปิด ยูไนเต็ด โกลบอล เฮลท์แคร์ ฟันด์|United Global Healthcare Fund|E||N|N|20140909|7|Y|N|1530|1000.00|0.01|1400|0.01|0.0001|0.00|0.0000|5||Y|Y|UGH
+UGISRMF|UOBAM|กองทุนเปิด ยูไนเต็ด โกลบอล อินคัม สตราทีจิค บอนด์ ฟันด์ เพื่อการเลี้ยงชีพ|United Global Income Strategic Bond Fund RMF|F|RMF|N|N||5|Y|N|1530|2000.00|0.01|0001|||0.00|0.0000|||N|Y|
+UGMAC|UOBAM|กองทุนเปิด ยูไนเต็ด โกลบอล แม็คโคร ออพพอร์ทูนิตี้ส์|United Global Macro Opportunities Fund|M||N|N|20160610|5|Y|N|1530|500000.00|0.01|1530|0.01|0.0001|0.00|0.0000|5||Y|Y|UGMAC
+UGSE|UOBAM|กองทุนเปิด ยูไนเต็ด โกลบอล ซีเคียวริตี้ อิควิตี้ ฟันด์|United Global Security Equities Fund|E||N|N|20151201|6|Y|N|1530|2000.00|0.01|1530|0.01|0.0001|0.00|0.0000|5||Y|Y|UGSE
+UHCRMF|UOBAM|กองทุนเปิด ยูไนเต็ด โกลบอล เฮลท์แคร์ เพื่อการเลี้ยงชีพ|United Global Healthcare RMF|E|RMF|N|N|20150825|7|Y|N|1530|1000.00|0.01|1400|0.01|0.0001|0.00|0.0000|5||Y|Y|UHCRMF
+UIDPLUS|UOBAM|กองทุนเปิด ยูไนเต็ด อินคัม เดลี่ อัลตร้า พลัส ฟันด์|United Income Daily Ultra Plus Fund|F||N|N|20160330|4|Y|N|1530|0.01|0.01|1500|0.01|0.0001|0.00|0.0000|1||Y|Y|UIDPLUS
+UIF-A|UOBAM|กองทุนเปิด ยูไนเต็ด อินคัม โฟกัส ฟันด์|United Income Focus Fund|M||N|N|20160202|5|Y|N|1530|0.01|0.01|1400|0.01|0.0001|0.00|0.0000|5||Y|Y|UIF
+UIF-N|UOBAM|กองทุนเปิด ยูไนเต็ด อินคัม โฟกัส ฟันด์|United Income Focus Fund|M||N|N|20160202|5|Y|N|1530|0.01|0.01|1400|0.01|0.0001|0.00|0.0000|5||Y|Y|UIF
+UIFRMF|UOBAM|กองทุนเปิด ยูไนเต็ด อินคัม โฟกัส ฟันด์ เพื่อการเลี้ยงชีพ|United Income Focus Fund RMF|M|RMF|N|N|20161011|5|Y|N|1530|2000.00|0.01|1400|0.01|0.0001|0.00|0.0000|5||Y|Y|UIFRMF
+UJRES|UOBAM|กองทุนเปิด ยูไนเต็ด เจแปน เรียลเอสเตท ซีเคียวริตี้ ฟันด์|United Japan Real Estate Securities Fund|E||N|N|20150929|7|Y|N|1530|2000.00|0.01|1400|0.01|0.0001|0.00|0.0000|5||Y|Y|UJRES
+UOBEQRMF|UOBAM|กองทุนเปิด ยูโอบี ตราสารทุนเพื่อการเลี้ยงชีพ|UOB EQUITIES RMF|E|RMF|N|N|20020627|6|N|N|1530|1000.00|1.00|1530|1.00|1.0000|0.00|0.0000|4||Y|Y|UOBEQRMF
+UOBFIPP AI 2Y1|UOBAM|กองทุนเปิด ยูโอบี เอฟไอ พลัส พลัส เอไอ 2Y1|UOB FI Plus Plus AI 2Y1 Fund|F||N|N|20160309|4|N|N|1530|500000.00|0.01|1700|0.01|0.0001|0.00|0.0000|1||N|Y|
+UOBFIPP AI 2Y2|UOBAM|กองทุนเปิด ยูโอบี เอฟไอ พลัส พลัส เอไอ 2Y2|UOB FI Plus Plus AI 2Y2 Fund|F||N|N|20160318|4|N|N|1530|500000.00|0.01|1700|0.01|0.0001|0.00|0.0000|1||N|Y|
+UOBFIPPC AI 3Y2|UOBAM|กองทุนเปิด ยูโอบี เอฟไอ พลัส พลัส ซี เอไอ 3Y2|UOB FI Plus Plus C AI 3Y2 Fund|M||Y|N|20141120|5|Y|N|1530|500000.00|0.01|1700|0.01|0.0001|0.00|0.0000|1||N|Y|
+UOBFIPPC AI 3Y3|UOBAM|กองทุนเปิด ยูโอบี เอฟไอ พลัส พลัส ซี เอไอ 3Y3|UOB FI Plus Plus C AI 3Y3 Fund|M||Y|N|20141209|5|Y|N|1530|500000.00|0.01|1700|0.01|0.0001|0.00|0.0000|1||N|Y|
+UOBGARMF|UOBAM|กองทุนเปิด ยูโอบี โกลบอล แอลโลเคชั่น เพื่อการเลี้ยงชีพ|UOB Global Allocation RMF|M|RMF|N|N|20150218|5|Y|N|1530|1000.00|0.01|1400|0.01|0.0001|0.00|0.0000|5||Y|Y|UOBGARMF
+UOBGBRMF|UOBAM|กองทุนเปิด ยูโอบี พันธบัตรเพื่อการเลี้ยงชีพ|UOB GOVERNMENT BOND RMF|F|RMF|N|N|20020627|3|N|N|1530|1000.00|1.00|1400|1.00|1.0000|0.00|0.0000|1||Y|Y|UOBGBRMF
+UOBGRMF-H|UOBAM|กองทุนเปิด ยูโอบี โกลด์ เพื่อการเลี้ยงชีพ - H|UOB Gold RMF - Currency Hedged|O|RMF|N|N|20111222|8|Y|N|1530|1000.00|1.00|1400|1.00|1.0000|0.00|0.0000|3||Y|Y|UOBGRMF-H
+UOBID|UOBAM|กองทุนเปิด ยูโอบี อินคัม เดลี|UOB Income Daily Open-ended Fund|F||N|N|20110202|4|N|N|1530|2000.00|0.01|1500|1.00|1.0000|0.00|0.0000|1||Y|Y|UOBID
+UOBLTF|UOBAM|กองทุนเปิด ยูโอบี หุ้นระยะยาว|UOB LONG TERM EQUITY  FUND|E|LTF|N|N|20041104|6|N|N|1530|1000.00|1.00|1530|1.00|1.0000|0.00|0.0000|4||Y|Y|UOBLTF
+UOBSA|UOBAM|กองทุนเปิด ยูโอบี สมาร์ท เอเชีย|UOB Smart Asia Fund|E||N|N|20070716|6|Y|N|1530|10000.00|10000.00|1400|1.00|1.0000|0.00|0.0000|5||Y|Y|UOBSA
+UOBSAAA|UOBAM|กองทุนเปิด ยูโอบี สมาร์ท เอเชีย แอคทีฟ อโลเคชั่น|UOB Smart Asia Active Allocation Fund|M||N|N|20071114|6|Y|N|1530|10000.00|10000.00|1400|1.00|1.0000|0.00|0.0000|5||Y|Y|UOBSAAA
+UOBSAI|UOBAM|กองทุนเปิด ยูโอบี สมาร์ท เอเชีย แปซิฟิก อินคัม ฟันด์|UOB Smart Asia Pacific Income Fund|M||N|N|20150526|5|Y|N|1530|500000.00|0.01|1400|0.01|0.0001|0.00|0.0000|5||Y|Y|UOBSAI
+UOBSAS100|UOBAM|กองทุนเปิด ยูโอบี สมาร์ท แอคทีฟ เซท 100|UOB Smart Active SET 100 Fund|E||N|N|20050512|6|N|N|1530|1000.00|1.00|1530|1.00|1.0000|0.00|0.0000|4||Y|Y|UOBSAS100
+UOBSAS100D|UOBAM|กองทุนเปิด ยูโอบี สมาร์ท แอคทีฟ เซท 100 ดิวิเดนด์|UOB Smart Active SET 100 Dividend Fund|E||N|Y|20080516|6|N|N|1530|10000.00|1.00|1530|1.00|1.0000|0.00|0.0000|4||Y|Y|UOBSAS100D
+UOBSC|UOBAM|กองทุนเปิด ยูโอบี สมาร์ท คอมโมดิตี้|UOB Smart Commodity Fund|M||N|N|20080530|8|Y|N|1530|10000.00|10000.00|1530|1.00|1.0000|0.00|0.0000|5||Y|Y|UOBSC
+UOBSCI-D|UOBAM|กองทุนเปิด ยูโอบี สมาร์ท ไชน่า อินเดีย|UOB Smart China India Fund|E||N|Y|20101208|6|Y|N|1530|10000.00|10000.00|1400|1.00|1.0000|0.00|0.0000|5||Y|Y|UOBSCI
+UOBSCI-N|UOBAM|กองทุนเปิด ยูโอบี สมาร์ท ไชน่า อินเดีย|UOB Smart China India Fund|E||N|Y|20101208|6|Y|N|1530|10000.00|10000.00|1400|1.00|1.0000|0.00|0.0000|5||Y|Y|UOBSCI
+UOBSD|UOBAM|กองทุนเปิด ยูโอบี ชัวร์ เดลี|UOB Sure Daily Open-ended Fund|F||N|N|20060510|1|N|N|1530|2000.00|1.00|1500|1.00|1.0000|0.00|0.0000|1||Y|Y|UOBSD
+UOBSDF|UOBAM|กองทุนเปิด ยูโอบี สมาร์ท ดิวิเดนด์-โฟกัส อิควิตี้ ฟันด์|UOB Smart Dividend-Focused Equity Fund|E||N|N|20100920|6|N|N|1530|2000.00|1.00|1530|1.00|1.0000|0.00|0.0000|4||Y|Y|UOBSDF
+UOBSG - H|UOBAM|กองทุนเปิด ยูโอบี สมาร์ท โกลด์ ฟันด์ - H|UOB Smart Gold Fund - Currency Hedged|O||N|N|20120314|8|Y|N|1530|1000.00|1.00|1400|1.00|1.0000|0.00|0.0000|3||Y|Y|UOBSG - H
+UOBSG-D|UOBAM|กองทุนเปิด ยูโอบี สมาร์ท โกลด์|UOB Smart Gold Fund|O||N|Y|20100831|8|Y|N|1530|1000.00|1000.00|1530|1.00|1.0000|0.00|0.0000|3||Y|Y|UOBSG
+UOBSG-N|UOBAM|กองทุนเปิด ยูโอบี สมาร์ท โกลด์|UOB Smart Gold Fund|O||N|Y|20100831|8|Y|N|1530|1000.00|1000.00|1530|1.00|1.0000|0.00|0.0000|3||Y|Y|UOBSG
+UOBSGA|UOBAM|กองทุนเปิด ยูโอบี สมาร์ท โกลบอล แอลโลเคชั่น ฟันด์|UOB Smart Global Allocation Fund|M||N|N|20150218|5|Y|N|1530|0.01|0.01|1400|0.01|0.0001|0.00|0.0000|5||Y|Y|UOBSGA
+UOBSGB|UOBAM|กองทุนเปิด ยูโอบี สมาร์ท โกลบอล บอนด์ ฟันด์|UOB Smart Global Bond Fund|F||N|N|20111130|4|Y|N|1530|2000.00|0.01|1530|1.00|1.0000|0.00|0.0000|5||Y|Y|UOBSGB
+UOBSGC|UOBAM|กองทุนเปิด ยูโอบี สมาร์ท เกรธเธอร์ ไชน่า|UOB Smart Greater China|E||N|N|20071204|6|Y|N|1530|10000.00|10000.00|1400|1.00|1.0000|0.00|0.0000|5||Y|Y|UOBSGC
+UOBSGCR|UOBAM|กองทุนเปิด ยูโอบี ซีเล็ค โกลบอล คอมเพล็กซ์ รีเทิร์น เอไอ ฟันด์|UOB Select Global Complex Return AI Fund|O||Y|N|20150320|5|Y|N|1530|510000.00|0.01|0001|||0.00|0.0000|||N|Y|
+UOBSHC|UOBAM|กองทุนเปิด ยูโอบี สมาร์ท โกลบอล เฮลท์แคร์ ฟันด์|UOB Smart Global Healthcare Fund|E||N|N|20140909|7|Y|N|1530|1000.00|0.01|1400|0.01|0.0001|0.00|0.0000|5||Y|Y|UOBSHC
+UOBSHY|UOBAM|กองทุนเปิด ยูโอบี สมาร์ท ยูเอส ไฮ ยิลด์ ฟันด์|UOB Smart US High Yield Fund|M||N|N|20140514|5|Y|N|1530|510000.00|10000.00|1530|1.00|1.0000|0.00|0.0000|5||Y|Y|UOBSHY-M
+UOBSHY-A|UOBAM|กองทุนเปิด ยูโอบี สมาร์ท ยูเอส ไฮ ยิลด์ ฟันด์|UOB Smart US High Yield Fund|M||N|N|20140514|5|Y|N|1530|510000.00|10000.00|1530|1.00|1.0000|0.00|0.0000|5||Y|Y|UOBSHY-M
+UOBSJSM|UOBAM|กองทุนเปิด ยูโอบี สมาร์ท เจแปน สมอล แอนด์ มิด แคป ฟันด์|UOB Smart Japan Small And Mid Cap Fund|E||N|N|20140307|6|Y|N|1530|2000.00|0.01|1400|0.01|0.0100|0.00|0.0000|5||Y|Y|UOBSJSM
+UOBSMG|UOBAM|กองทุนเปิด ยูโอบี สมาร์ท มิเลนเนียม โกรว์ธ|UOB SMART MILLENNIUM GROWTH FUND|M||N|N|20000229|5|N|N|1530|10000.00|5000.00|1530|3000.00|300.0000|0.00|0.0000|4||Y|Y|UOBSMG
+UOBSVRMF|UOBAM|กองทุนเปิด ยูโอบี ออมทรัพย์เพื่อการเลี้ยงชีพ|UOB SAVING RMF|F|RMF|N|N|20020627|4|N|N|1530|1000.00|1.00|1400|1.00|1.0000|0.00|0.0000|1||Y|Y|UOBSVRMF
+UPINCM|UOBAM|กองทุนเปิด ยูไนเต็ด แพลตินัม อินคัม ออพพอร์ทูนิตี้ส์ พลัส ฟันด์|United Platinum Income Opportunities Plus Fund|M||N|N|20160622|5|Y|N|1530|550000.00|0.01|1400|0.01|0.0001|0.00|0.0000|6||Y|Y|UPINCM
+USHY|UOBAM|กองทุนเปิด ยูเอส ไฮ ยิลด์ ฟันด์|US High Yield Fund|M||N|N|20140514|5|Y|N|1530|510000.00|10000.00|1530|1.00|1.0000|0.00|0.0000|5||Y|Y|USHY-M
+USHY-A|UOBAM|กองทุนเปิด ยูเอส ไฮ ยิลด์ ฟันด์|US High Yield Fund|M||N|N|20140514|5|Y|N|1530|510000.00|10000.00|1530|1.00|1.0000|0.00|0.0000|5||Y|Y|USHY-M
+UTHAICG|UOBAM|กองทุนเปิด ยูไนเต็ด หุ้นธรรมาภิบาลไทย|United Thai Equity CG Fund|E||N|N||6|N|N|1530|1000.00|0.01|0001|||0.00|0.0000|||N|Y|
+UTSME|UOBAM|กองทุนเปิด ยูไนเต็ด ไทย สมอล์ แอนด์ มิด แคป อิควี้ตี้ ฟันด์|United Thai Small and Mid Cap Equity Fund|E||N|N|20150825|6|N|N|1530|1000.00|0.01|1500|0.01|0.0001|0.00|0.0000|4||Y|Y|UTSME
+UTSME-LTF|UOBAM|กองทุนเปิด ยูไนเต็ด ไทย สมอล์ แอนด์ มิด แคป หุ้นระยะยาว|United Thai Small and Mid Cap Long Term Equity Fund|E|LTF|N|N|20161202|6|N|N|1530|2000.00|0.01|1500|0.01|0.0001|0.00|0.0000|4||Y|Y|
+VALUE-D LTF|UOBAM|กองทุนเปิด แวลูพลัส ปันผล หุ้นระยะยาว|Value Plus - Dividend Long Term Equity Fund|E|LTF|N|Y|20070626|6|N|N|1530|2000.00|0.01|1500|0.01|0.0001|0.00|0.0000|4||Y|Y|VALUE-D LTF
+VFOCUS-D|UOBAM|กองทุนเปิด ไทย แวลู โฟกัส อิควิตี้ ปันผล|Thai Value Focus Equity-Dividend Fund|E||N|Y|20120907|6|N|N|1530|2000.00|0.01|1500|0.01|0.0001|0.00|0.0000|4||Y|Y|VFOCUS-D

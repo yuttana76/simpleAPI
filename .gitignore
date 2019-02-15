@@ -3,7 +3,7 @@
 # compiled output
 /dist
 /backend/angular
-/backend/node_modules
+backend/angular
 /dist-server
 /tmp
 /out-tsc
